@@ -34,6 +34,15 @@
     "name": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
     "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png"
   },
+
+
+{
+    "id": "ZEE CINEMA HD",
+    "id1": "f56beaac9f124616872c741c9ce4fa4e",
+    "id2": "5d40a903238f4ad98abbed1877d4e3d1",
+    "name": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png"
+  },
   {
     "id": "AND PICTURES",
     "id1": "8dea532cabfe4f71ba20f62310e7949f",
