@@ -286,8 +286,7 @@
     "name": "B4U Music (1080p)",
     "genre": "Music",
     "url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8"
-  }
-
+  },
   {
     "id": "B4UPlus.in",
     "name": "B4U Plus (576p)",
@@ -569,13 +568,7 @@
     "name": "DD Uttarakhand (720p)",
     "genre": "Entertainment",
     "url": "https://cdn-1.pishow.tv/live/17/master.m3u8"
-  }
-
-
-
-
-
-[
+  },
   {
     "id": "DesiChannel.in",
     "name": "Desi Channel (720p)",
@@ -857,9 +850,8 @@
     "name": "Gyandarshan (720p)",
     "genre": "Entertainment",
     "url": "https://cdn-6.pishow.tv/live/14/master.m3u8"
-  }
-]
-[
+  },
+
   {
     "id": "HamdardTV.ca",
     "name": "Hamdard TV (1080p)",
@@ -1135,10 +1127,8 @@
     "name": "Kalinga TV (576p)",
     "genre": "Entertainment",
     "url": "https://yuppftalive.akamaized.net/080823/kalingatv/playlist.m3u8"
-  }
-]
-[
-  {
+  },
+{
     "id": "KanakNews.in",
     "name": "Kanak News (720p)",
     "genre": "News",
@@ -1431,9 +1421,7 @@
     "name": "Nambikkai TV (576p)",
     "genre": "Entertainment",
     "url": "https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8"
-  }
-]
-[
+  },
   {
     "id": "NamdhariTV.in",
     "name": "Namdhari (404p)",
@@ -1528,8 +1516,7 @@
     "id": "News11.in@SD",
     "name": "News 11 (576p)",
     "genre": "News",
-    "url": "https://yuppftalive.akamaized.net/080823/news11bharat/playlist.m3u8"
-  },
+    "url": "https://yuppftalive.akamaized.net/080823/news11bharat/playlist.m3u8"},
   {
     "id": "News18Kerala.in@SD",
     "name": "News18 Kerala (1080p)",
@@ -1672,8 +1659,7 @@
     "id": "PratidinTime.in@SD",
     "name": "Pratidin Time (576p)",
     "genre": "Entertainment",
-    "url": "https://yuppftalive.akamaized.net/080823/protidintime/playlist.m3u8"
-  },
+    "url": "https://yuppftalive.akamaized.net/080823/protidintime/playlist.m3u8"},
   {
     "id": "PravasiChannel.in",
     "name": "Pravasi Channel (1080p)",
@@ -1703,10 +1689,8 @@
     "name": "PTC Music (720p)",
     "genre": "Music",
     "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/"
-  }
-]
-[
-  {
+  },
+{
     "id": "PTCNews.in@SD",
     "name": "PTC News (720p)",
     "genre": "News",
@@ -1740,8 +1724,7 @@
     "id": "PudhiyaThalaimurai.in@SD",
     "name": "Pudhiya Thalaimurai (576p)",
     "genre": "News",
-    "url": "https://segment.yuppcdn.net/140622/pudhiyathalaimurai/playlist.m3u8"
-  },
+    "url": "https://segment.yuppcdn.net/140622/pudhiyathalaimurai/playlist.m3u8"},
   {
     "id": "PunjabNews.in",
     "name": "Punjab News (1080p)",
@@ -1987,10 +1970,8 @@
     "name": "Sangeet Bhojpuri (720p)",
     "genre": "Music",
     "url": "https://cdn-1.pishow.tv/live/1020/master.m3u8"
-  }
-]
-[
-  {
+  },
+{
     "id": "SanjhaTV.in",
     "name": "Sanjha TV (720p)",
     "genre": "Entertainment",
@@ -2271,10 +2252,8 @@
     "name": "T News (720p)",
     "genre": "News",
     "url": "https://pishow.tv/live/283/master.m3u8"
-  }
-]
-[
-  {
+  },
+{
     "id": "TaazaTV.in@SD",
     "name": "Taaza TV (720p)",
     "genre": "News",
@@ -2555,9 +2534,7 @@
     "name": "Zee 24 Taas (1080p)",
     "genre": "News",
     "url": "https://zee24taas-samsungin.amagi.tv/playlist.m3u8"
-  }
-]
-[
+  },
   {
     "id": "ZeeAction.in@SD",
     "name": "Zee Action (720p)",
