@@ -12,18 +12,7 @@
     "genre": "News",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/"
   },
-  {
-    "id": "10TV.in@SD",
-    "name": "10 TV (720p)",
-    "genre": "Entertainment",
-    "url": "https://cdn-1.pishow.tv/live/391/master.m3u8"
-  },
-  {
-    "id": "99TV.in@SD",
-    "name": "99TV (720p)",
-    "genre": "Entertainment",
-    "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8"
-  },
+  
   {
     "id": "A1TVRajasthan.in@SD",
     "name": "A1 TV Rajasthan (576p)",
@@ -36,12 +25,7 @@
     "genre": "News",
     "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/"
   },
-  {
-    "id": "AakaashAath.in@SD",
-    "name": "Aakaash Aath (720p)",
-    "genre": "Entertainment",
-    "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
-  },
+  
   {
     "id": "AamarBangla.in@SD",
     "name": "Aamar Bangla (720p)",
@@ -84,12 +68,7 @@
     "genre": "Entertainment",
     "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8"
   },
-  {
-    "id": "ABNAndhraJyoti.in@SD",
-    "name": "ABN Andhra Jyoti (720p)",
-    "genre": "Entertainment",
-    "url": "https://cdn-1.pishow.tv/live/407/master.m3u8"
-  },
+
   {
     "id": "ABPAnanda.in@SD",
     "name": "ABP Ananda (1080p)",
