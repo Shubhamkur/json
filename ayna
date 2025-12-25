@@ -1250,8 +1250,8 @@
     "url": "https://tvsen5.aynaott.com/peacetv/index.m3u8"
   },
   {
-    "name": "tracks-v1a1",
-    "genre": "General",
+    "name": "TSPORTS",
+    "genre": "Sports",
     "url": "https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8"
   },
   {
@@ -1270,53 +1270,53 @@
     "url": "https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "tracks-v1a1",
-    "genre": "General",
+    "name": "starsp2h",
+    "genre": "Sports",
     "url": "https://tvsen7.aynaott.com/ssps2hd/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "tracks-v1a1",
-    "genre": "General",
+    "name": "btsports1",
+    "genre": "Sports",
     "url": "https://tvsen6.aynaott.com/btSport1/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "05-09000.ts",
-    "genre": "General",
+    "name": "btsports",
+    "genre": "Sports",
     "url": "https://tvsen6.aynaott.com/btSport2/tracks-v1a1/2025/12/18/01/25/05-09000.ts"
   },
   {
-    "name": "tracks-v1a1",
-    "genre": "General",
+    "name": "asports",
+    "genre": "Sports",
     "url": "https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "48-09680.ts",
-    "genre": "General",
-    "url": "https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/2025/12/18/01/24/48-09680.ts"
+    "name": "tsports",
+    "genre": "Sports",
+    "url": "https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8 "
   },
   {
-    "name": "tracks-v1",
-    "genre": "General",
+    "name": "Willowsports",
+    "genre": "Sports",
     "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1/mono.ts.m3u8"
   },
   {
-    "name": "tracks-v1a1",
-    "genre": "General",
+    "name": "Ptvsports",
+    "genre": "Sports",
     "url": "https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "tracks-v1a1",
+    "name": "btbhd",
     "genre": "General",
     "url": "https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "tracks-v1a1",
-    "genre": "General",
+    "name": "somoytv",
+    "genre": "News",
     "url": "https://tvsen6.aynaott.com/somoytv/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "tracks-v1a1",
-    "genre": "General",
+    "name": "atnnews",
+    "genre": "News",
     "url": "https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8"
   },
   {
@@ -1330,13 +1330,13 @@
     "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "tracks-v1a1",
-    "genre": "General",
+    "name": "Dbcnews",
+    "genre": "News",
     "url": "https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "name": "PNEb3v2q6GBk",
-    "genre": "General",
+    "name": "zee Bangla",
+    "genre": "Entertainment",
     "url": "https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8"
   },
   {
@@ -1355,18 +1355,18 @@
     "url": "https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8"
   },
   {
-    "name": "Wm9Lv2RjZGT6",
+    "name": "Annad Bangla",
     "genre": "General",
     "url": "https://tvsen1.aynaott.com/Wm9Lv2RjZGT6/index.m3u8"
   },
   {
-    "name": "tK2BNvT68fHZ",
+    "name": "masrangaa",
     "genre": "General",
     "url": "https://tvsen1.aynaott.com/tK2BNvT68fHZ/index.m3u8"
   },
   {
-    "name": "u3LkNQ7UHhFX",
-    "genre": "General",
+    "name": "Colors Bangla",
+    "genre": "Entertainment",
     "url": "https://tvsen1.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
   }
 ]
