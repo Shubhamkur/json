@@ -1020,8 +1020,8 @@
     "url": "https://tvsen6.aynaott.com/dhoom/index.m3u8"
   },
   {
-    "name": "Y\u00fcksek Sosyete",
-    "genre": "T\u00fcrkiye",
+    "name": "Yuksek Sosyete",
+    "genre": "General",
     "url": "https://tvsen6.aynaott.com/YuksekSosyete/index.m3u8"
   },
   {
@@ -1030,12 +1030,12 @@
     "url": "https://tvsen7.aynaott.com/SaudiTV1HD/index.m3u8"
   },
   {
-    "name": "EXTINF:-1 tvg-name=\"Madani Tv\" group-title=\"Unknown\",Madani Tv",
+    "name": "Madani Tv",
     "genre": "General",
     "url": "https://tvsen7.aynaott.com/MadaniTV/index.m3u8"
   },
   {
-    "name": "EXTINF:-1 tvg-name=\"FX TV\" group-title=\"Unknown\",FX TV",
+    "name": "FX TV",
     "genre": "General",
     "url": "https://tvsen7.aynaott.com/fx/index.m3u8"
   },
@@ -1055,7 +1055,7 @@
     "url": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8"
   },
   {
-    "name": "EXTINF:-1 tvg-name=\"Star Sports SL 2 HD \uf8ff\u00fc\u00e9\u00d8 \uf8ff\u00fc\u00ec\u00b0\" group-title=\"Cricket \uf8ff\u00fc\u00e8\u00e8\",Star Sports SL 2 HD \uf8ff\u00fc\u00e9\u00d8 \uf8ff\u00fc\u00ec\u00b0",
+    "name": "Star Sports SL 2 HD",
     "genre": "Sports",
     "url": "https://tvsen7.aynaott.com/ssps2hd/index.m3u8"
   },
@@ -1085,28 +1085,28 @@
     "url": "https://tvsen6.aynaott.com/skynature/index.m3u8"
   },
   {
-    "name": "EXTINF:-1 tvg-name=\"BT SPORT 2 HD \uf8ff\u00fc\u00e9\u00d8 \uf8ff\u00fc\u00ec\u00b0 \u201a\u00f6\u00f4\u00d4\u220f\u00e8\" group-title=\"Cricket \uf8ff\u00fc\u00e8\u00e8\",BT SPORT 2 HD \uf8ff\u00fc\u00e9\u00d8 \uf8ff\u00fc\u00ec\u00b0 \u201a\u00f6\u00f4\u00d4\u220f\u00e8",
+    "name": "BT SPORT 2 HD",
     "genre": "Sports",
     "url": "https://tvsen6.aynaott.com/btSport2/index.m3u8"
   },
   {
-    "name": "EXTINF:-1 tvg-name=\"B4u HITZ\" group-title=\"Unknown\",B4u HITZ",
+    "name": "B4u HITZ",
     "genre": "General",
     "url": "https://tvsen5.aynaott.com/B4UHitz/index.m3u8"
   },
   {
-    "name": "Star Sports 1 HD \uf8ff\u00fc\u00e1\u00c6\uf8ff\u00fc\u00e1\u2265\uf8ff\u00fc\u00ec\u222b",
-    "genre": "Cricket \uf8ff\u00fc\u00e8\u00e8",
+    "name": "Star Sports 1 HD",
+    "genre": "Cricket",
     "url": "https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8"
   },
   {
-    "name": "EXTINF:-1 tvg-name=\"T SPORT HD\" group-title=\"Cricket \uf8ff\u00fc\u00e8\u00e8\",T SPORT HD",
+    "name": "T SPORT HD",
     "genre": "Sports",
     "url": "https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8"
   },
   {
     "name": "T SPORT HD",
-    "genre": "Cricket \uf8ff\u00fc\u00e8\u00e8",
+    "genre": "Cricket",
     "url": "https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8"
   },
   {
@@ -1115,13 +1115,13 @@
     "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
   },
   {
-    "name": "PTV Sports HD \ud83d\udce1 \ud83c\uddf5\ud83c\uddf0 \u2699\ufe0f",
-    "genre": "Cricket \ud83c\udfcf",
+    "name": "PTV Sports HD",
+    "genre": "Cricket",
     "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8"
   },
   {
-    "name": "A SPORT HD \ud83c\uddf5\ud83c\uddf0 \ud83c\udfaf \ud83d\udce1 \u2699\ufe0f",
-    "genre": "Cricket \ud83c\udfcf",
+    "name": "A SPORT HD",
+    "genre": "Cricket",
     "url": "https://tvsen6.aynaott.com/asports/index.m3u8"
   },
   {
