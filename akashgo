@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Doraemon",
+    "genre": "Kids\ud83c\udf6d\ud83c\udfaf\ud83c\udf89",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
+  },
+  {
+    "name": "24/7 Gopal Bhar",
+    "genre": "Bangladeshi \ud83c\udde7\ud83c\udde9",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8"
+  },
+  {
+    "name": "24/7 Motu Patlu",
+    "genre": "Bangladeshi \ud83c\udde7\ud83c\udde9",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
+  },
+  {
+    "name": "24/7 Shinchan",
+    "genre": "Bangladeshi \ud83c\udde7\ud83c\udde9",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8"
+  },
+  {
+    "name": "Kolkata Movies",
+    "genre": "Bangladeshi \ud83c\udde7\ud83c\udde9",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8"
+  },
+  {
+    "name": "Bollywood Movies",
+    "genre": "Bangladeshi \ud83c\udde7\ud83c\udde9",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8"
+  },
+  {
+    "name": "Bollywood Movies",
+    "genre": "Bangladeshi \ud83c\udde7\ud83c\udde9",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8"
+  },
+  {
+    "name": "209622",
+    "genre": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
+  },
+  {
+    "name": "209624",
+    "genre": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8"
+  },
+  {
+    "name": "209633",
+    "genre": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8"
+  },
+  {
+    "name": "209650",
+    "genre": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8"
+  },
+  {
+    "name": "Duck TV",
+    "genre": "Kids",
+    "url": "https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8"
+  },
+  {
+    "name": "lemar",
+    "genre": "Cricket \ud83c\udfcf",
+    "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8"
+  },
+  {
+    "name": "Wion",
+    "genre": "News",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "Islamic",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8"
+  },
+  {
+    "name": "209622",
+    "genre": "Cartoons | 24/7",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "209611",
+    "genre": "Cartoons | 24/7",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "209902",
+    "genre": "Bangla | 24/7",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "209593",
+    "genre": "Hindi | 24/7",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "209612",
+    "genre": "Hindi | 24/7",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "name": "ariana",
+    "genre": "Kids",
+    "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"
+  },
+  {
+    "name": "tsports",
+    "genre": "Kids",
+    "url": "https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+  },
+  {
+    "name": "vaanamtv",
+    "genre": "General",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/vaanamtv/playlist.m3u8"
+  },
+  {
+    "name": "sungo543",
+    "genre": "General",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/sungo543/playlist.m3u8"
+  },
+  {
+    "name": "sungo544",
+    "genre": "General",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8"
+  },
+  {
+    "name": "sungo545",
+    "genre": "General",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/sungo545/playlist.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+  },
+  {
+    "name": "sungo546",
+    "genre": "General",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+  },
+  {
+    "name": "8",
+    "genre": "General",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+  },
+  {
+    "name": "Somoy TV",
+    "genre": "News",
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1"
+  },
+  {
+    "name": "Somoy TV",
+    "genre": "News",
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"
+  },
+  {
+    "name": "AnandaTV",
+    "genre": "News",
+    "url": "https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8"
+  },
+  {
+    "name": "ATNBangla",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-ATNBangla/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "ATNNews",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-ATNNews/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "BanglaTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-BanglaTV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "BanglaVision",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-BanglaVision/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "BijoyTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "BoishakhiTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-BoishakhiTV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Channel24HD",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-Channel24HD/tracks-a1/mono.m3u8"
+  },
+  {
+    "name": "Channel9",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-Channel9/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "Channel1",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-Channel1/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "DeeptoTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-DeeptoTV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "DeshTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-DeshTV/tracks-a1/mono.m3u8"
+  },
+  {
+    "name": "EkattorTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-EkattorTV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "EkhonTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-EkhonTV/tracks-a1/mono.m3u8"
+  },
+  {
+    "name": "EkusheyTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "GlobalTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-GlobalTV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "IndependentTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-IndependentTV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "JamunaTelevision",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-JamunaTelevision/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Maasranga",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-Maasranga/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "MadaniTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-MadaniTV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "MohonaTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-MohonaTV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "News24HD",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-News24HD/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "NEXUSTVENC1",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-NEXUSTVENC1/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "NTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-NTV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "RTV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "SATV",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-SATV/tracks-v2a1/mono.m3u8"
+  },
+  {
+    "name": "somoy",
+    "genre": "General",
+    "url": "https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "BTV",
+    "genre": "Entertainment",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8"
+  },
+  {
+    "name": "Deepto TV HD",
+    "genre": "Entertainment",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8"
+  },
+  {
+    "name": "Jamuna TV",
+    "genre": "News",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8"
+  },
+  {
+    "name": "ATN News",
+    "genre": "News",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8"
+  },
+  {
+    "name": "Bangla Vision",
+    "genre": "Entertainment",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8"
+  },
+  {
+    "name": "Channel 24 HD",
+    "genre": "News",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8"
+  },
+  {
+    "name": "Ekattor HD",
+    "genre": "News",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8"
+  },
+  {
+    "name": "HUM TV",
+    "genre": "Entertainment",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8"
+  },
+  {
+    "name": "Independent TV",
+    "genre": "News",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8"
+  },
+  {
+    "name": "NTV",
+    "genre": "Entertainment",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8"
+  },
+  {
+    "name": "Somoy TV",
+    "genre": "News",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8"
+  },
+  {
+    "name": "Somoy TV",
+    "genre": "News",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8"
+  },
+  {
+    "name": "Channel I HD",
+    "genre": "Entertainment",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8"
+  },
+  {
+    "name": "Channel I HD",
+    "genre": "Entertainment",
+    "url": "https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
+  },
+  {
+    "name": "Channel I HD",
+    "genre": "Entertainment",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8"
+  }
+]
