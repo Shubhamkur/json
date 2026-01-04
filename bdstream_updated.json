@@ -1,0 +1,3672 @@
+[
+  {
+    "channelNumber": 1,
+    "name": "Somoy News TV",
+    "tvgId": "27ec4394-7640-4dab-abf8-6a48893dfdfe",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/27ec4394-7640-4dab-abf8-6a48893dfdfe",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/27ec4394-7640-4dab-abf8-6a48893dfdfe",
+    "logoUrl": "https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042",
+    "id": "695905ccfb1469e5acc954ba",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 2,
+    "name": "Channel 24",
+    "tvgId": "89247cb9-3c3e-465c-bbc7-d444b0d65424",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/89247cb9-3c3e-465c-bbc7-d444b0d65424",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/89247cb9-3c3e-465c-bbc7-d444b0d65424",
+    "logoUrl": "https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527",
+    "id": "695905ccfb1469e5acc954be",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 3,
+    "name": "ATN News",
+    "tvgId": "a0a29f90-f7c2-4cc2-b0b4-667253585b84",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a0a29f90-f7c2-4cc2-b0b4-667253585b84",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a0a29f90-f7c2-4cc2-b0b4-667253585b84",
+    "logoUrl": "https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a",
+    "id": "695905ccfb1469e5acc954c2",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 4,
+    "name": "Independent TV",
+    "tvgId": "22f28ae5-8c15-4904-b9f6-70bbd94cbc43",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43",
+    "logoUrl": "https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234",
+    "id": "695905ccfb1469e5acc954c6",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 5,
+    "name": "DBC News",
+    "tvgId": "0875f2c8-2043-499b-9472-2872412a6340",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0875f2c8-2043-499b-9472-2872412a6340",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0875f2c8-2043-499b-9472-2872412a6340",
+    "logoUrl": "https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe",
+    "id": "695905cdfb1469e5acc954ca",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 6,
+    "name": "Ekhon TV",
+    "tvgId": "0579659b-2854-40d1-ad6a-69b70641ad17",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0579659b-2854-40d1-ad6a-69b70641ad17",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0579659b-2854-40d1-ad6a-69b70641ad17",
+    "logoUrl": "https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868",
+    "id": "695905cdfb1469e5acc954ce",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 7,
+    "name": "News 24 BD",
+    "tvgId": "2b1a4340-2557-4d57-b77c-657bb30ce0c8",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8",
+    "logoUrl": "https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d",
+    "id": "695905cdfb1469e5acc954d2",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 8,
+    "name": "Ekattor TV",
+    "tvgId": "1a7a1365-ae2c-470f-9fb2-25c6e83bb108",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108",
+    "logoUrl": "https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3",
+    "id": "695905cdfb1469e5acc954d6",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 9,
+    "name": "Jamuna TV",
+    "tvgId": "8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa",
+    "logoUrl": "https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122",
+    "id": "695905cdfb1469e5acc954da",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 10,
+    "name": "ABC News",
+    "tvgId": "50e2fe7f-fa1d-40ee-b37d-c19a992ed97c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/50e2fe7f-fa1d-40ee-b37d-c19a992ed97c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/50e2fe7f-fa1d-40ee-b37d-c19a992ed97c",
+    "logoUrl": "https://s3.aynaott.com/storage/a9517064cd265264a1e94945be044152",
+    "id": "695905cefb1469e5acc954de",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 11,
+    "name": "ABC News NY",
+    "tvgId": "5031a2f5-324e-4e3d-91b2-d16385052dd2",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/5031a2f5-324e-4e3d-91b2-d16385052dd2",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/5031a2f5-324e-4e3d-91b2-d16385052dd2",
+    "logoUrl": "https://play-lh.googleusercontent.com/DuLKeH07utaAPlrQZBWQu75pez9z_LgS3o-sDZVFvLrj9-aZ5rhvXUCwTPPTQaxG76BlGKOthPg5sU3YtF5wRQ",
+    "id": "695905cefb1469e5acc954e2",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 12,
+    "name": "Amiricans Voice News",
+    "tvgId": "12467e84-4c98-4a15-841d-61852f4a8a42",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/12467e84-4c98-4a15-841d-61852f4a8a42",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/12467e84-4c98-4a15-841d-61852f4a8a42",
+    "logoUrl": "https://s3.aynaott.com/storage/61d90e98d83e80bfea23c6b54d50d8e2",
+    "id": "695905cefb1469e5acc954e6",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 13,
+    "name": "BEK TV News",
+    "tvgId": "140905b7-dfdf-4e51-aaf5-6fd132773fbe",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/140905b7-dfdf-4e51-aaf5-6fd132773fbe",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/140905b7-dfdf-4e51-aaf5-6fd132773fbe",
+    "logoUrl": "https://s3.aynaott.com/storage/29420483e1d1a686555efbfa4f7fb9f8",
+    "id": "695905cefb1469e5acc954ea",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 14,
+    "name": "CNN",
+    "tvgId": "2be13775-7176-4b90-98d7-04c90ffe3b5a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/2be13775-7176-4b90-98d7-04c90ffe3b5a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/2be13775-7176-4b90-98d7-04c90ffe3b5a",
+    "logoUrl": "https://s3.aynaott.com/storage/d1c5e1f2498dbc018610f1586ab660e5",
+    "id": "695905cefb1469e5acc954ee",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 15,
+    "name": "AlJazeera",
+    "tvgId": "cb26514c-8cfb-4224-80e5-62a778c1a006",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/cb26514c-8cfb-4224-80e5-62a778c1a006",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/cb26514c-8cfb-4224-80e5-62a778c1a006",
+    "logoUrl": "https://s3.aynaott.com/storage/9a95157d5bce721ea06594e8b63b4e6a",
+    "id": "695905cffb1469e5acc954f2",
+    "genre": "Qatar"
+  },
+  {
+    "channelNumber": 16,
+    "name": "DW News",
+    "tvgId": "4f059328-a08e-41c0-aa0e-fb11eb69da7e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4f059328-a08e-41c0-aa0e-fb11eb69da7e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/4f059328-a08e-41c0-aa0e-fb11eb69da7e",
+    "logoUrl": "https://s3.aynaott.com/storage/9879197f1b6f27df923832cd06e82adb",
+    "id": "695905cffb1469e5acc954f6",
+    "genre": "Germany"
+  },
+  {
+    "channelNumber": 17,
+    "name": "Bloomberg TV",
+    "tvgId": "4ca61a59-e0e2-4566-94fb-055ef46dac9e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4ca61a59-e0e2-4566-94fb-055ef46dac9e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/4ca61a59-e0e2-4566-94fb-055ef46dac9e",
+    "logoUrl": "https://s3.aynaott.com/storage/4a87c14e67270d043613800c5d7b6251",
+    "id": "695905cffb1469e5acc954fa",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 18,
+    "name": "News Time Bangla",
+    "tvgId": "c8080032-034e-4f04-b1ee-0847a6e62a41",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c8080032-034e-4f04-b1ee-0847a6e62a41",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c8080032-034e-4f04-b1ee-0847a6e62a41",
+    "logoUrl": "https://s3.aynaott.com/storage/a4026bfc5928a4abd66c10a5b8d07eba",
+    "id": "695905cffb1469e5acc954fe",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 19,
+    "name": "Republic Bangla",
+    "tvgId": "7141c05b-97cd-4dd1-9584-423c7a5ce13d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7141c05b-97cd-4dd1-9584-423c7a5ce13d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7141c05b-97cd-4dd1-9584-423c7a5ce13d",
+    "logoUrl": "https://s3.aynaott.com/storage/68f655a765e55c45ef9d086cec71606c",
+    "id": "695905cffb1469e5acc95502",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 20,
+    "name": "News India 24x7",
+    "tvgId": "247cf723-3c1d-47bc-b765-64da2623a297",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/247cf723-3c1d-47bc-b765-64da2623a297",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/247cf723-3c1d-47bc-b765-64da2623a297",
+    "logoUrl": "https://s3.aynaott.com/storage/9f4112fd1e33156e5d4101d60fdd3458",
+    "id": "695905d0fb1469e5acc95506",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 21,
+    "name": "ANB News",
+    "tvgId": "2b78b6b0-5711-438d-b2ec-33313b1806f4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/2b78b6b0-5711-438d-b2ec-33313b1806f4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/2b78b6b0-5711-438d-b2ec-33313b1806f4",
+    "logoUrl": "https://s3.aynaott.com/storage/803873850322e0ecd7fe606ba4fd114f",
+    "id": "695905d0fb1469e5acc9550a",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 22,
+    "name": "News 1 India",
+    "tvgId": "a7a2ca97-da11-42fb-8310-db584907c81e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a7a2ca97-da11-42fb-8310-db584907c81e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a7a2ca97-da11-42fb-8310-db584907c81e",
+    "logoUrl": "https://s3.aynaott.com/storage/f69ebc31d4b3e6302515a9d6befb1973",
+    "id": "695905d0fb1469e5acc9550e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 23,
+    "name": "Republic TV Bharat",
+    "tvgId": "8377452f-fbc7-4780-8bd2-6db42ac285c0",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8377452f-fbc7-4780-8bd2-6db42ac285c0",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8377452f-fbc7-4780-8bd2-6db42ac285c0",
+    "logoUrl": "https://s3.aynaott.com/storage/31c1a7c92224ec3e75190ec35d772f93",
+    "id": "695905d0fb1469e5acc95512",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 24,
+    "name": "Sadhna Prime News",
+    "tvgId": "b358a9bf-6c73-4901-bde6-0250b67330bc",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b358a9bf-6c73-4901-bde6-0250b67330bc",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b358a9bf-6c73-4901-bde6-0250b67330bc",
+    "logoUrl": "https://s3.aynaott.com/storage/60fb7c185546fa52900f1c976ed567f6",
+    "id": "695905d0fb1469e5acc95516",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 25,
+    "name": "TV9 Bangla",
+    "tvgId": "4b351549-878b-4f99-88ed-a50e7a4aa84b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4b351549-878b-4f99-88ed-a50e7a4aa84b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/4b351549-878b-4f99-88ed-a50e7a4aa84b",
+    "logoUrl": "https://s3.aynaott.com/storage/bb84781ab9833079f730591f03d0b810",
+    "id": "695905d1fb1469e5acc9551a",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 26,
+    "name": "TV9 Bharatvarsh",
+    "tvgId": "c3a6f6c5-1e55-4ad3-ba58-e80a271c8941",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c3a6f6c5-1e55-4ad3-ba58-e80a271c8941",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c3a6f6c5-1e55-4ad3-ba58-e80a271c8941",
+    "logoUrl": "https://s3.aynaott.com/storage/68378d37a50debbe39c5197efe602e81",
+    "id": "695905d1fb1469e5acc9551e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 27,
+    "name": "CNBC TV",
+    "tvgId": "eff32f41-b72d-456c-89e1-cf86a097202a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/eff32f41-b72d-456c-89e1-cf86a097202a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/eff32f41-b72d-456c-89e1-cf86a097202a",
+    "logoUrl": "https://s3.aynaott.com/storage/0880d5e60287318406fff86322916ff7",
+    "id": "695905d1fb1469e5acc95522",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 28,
+    "name": "MSNBC News",
+    "tvgId": "df14a727-6c91-4c8f-ba9f-2ae527ce27dd",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/df14a727-6c91-4c8f-ba9f-2ae527ce27dd",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/df14a727-6c91-4c8f-ba9f-2ae527ce27dd",
+    "logoUrl": "https://s3.aynaott.com/storage/f8c19ede8d86895e54e804d2731e81b4",
+    "id": "695905d1fb1469e5acc95526",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 29,
+    "name": "Sky News",
+    "tvgId": "aab9a12d-b5a5-4028-8c92-94ea9d302f4e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/aab9a12d-b5a5-4028-8c92-94ea9d302f4e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/aab9a12d-b5a5-4028-8c92-94ea9d302f4e",
+    "logoUrl": "https://s3.aynaott.com/storage/128d0977af19a75a7fa3207f6808ed97",
+    "id": "695905d1fb1469e5acc9552a",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 30,
+    "name": "News Nation",
+    "tvgId": "4d545a29-276d-4843-97d7-533f94056c91",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4d545a29-276d-4843-97d7-533f94056c91",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/4d545a29-276d-4843-97d7-533f94056c91",
+    "logoUrl": "https://s3.aynaott.com/storage/dd7a293bc5bfbc10e0f9bad0508f872b",
+    "id": "695905d2fb1469e5acc9552e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 31,
+    "name": "Fox News",
+    "tvgId": "058d18a5-18d8-47e3-bb7c-68320e4b39bf",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/058d18a5-18d8-47e3-bb7c-68320e4b39bf",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/058d18a5-18d8-47e3-bb7c-68320e4b39bf",
+    "logoUrl": "https://s3.aynaott.com/storage/d42881d389280575f8150a11375ef4fb",
+    "id": "695905d2fb1469e5acc95532",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 32,
+    "name": "Wion",
+    "tvgId": "6b66f133-9d9b-44c6-870a-8441c8b99fe1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6b66f133-9d9b-44c6-870a-8441c8b99fe1",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6b66f133-9d9b-44c6-870a-8441c8b99fe1",
+    "logoUrl": "https://s3.aynaott.com/storage/4d75c65156226ffb12a47b029290e3ed",
+    "id": "695905d2fb1469e5acc95536",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 33,
+    "name": "BBC News AP",
+    "tvgId": "62d06278-50b4-48a1-b200-5a148e53fdbc",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/62d06278-50b4-48a1-b200-5a148e53fdbc",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/62d06278-50b4-48a1-b200-5a148e53fdbc",
+    "logoUrl": "https://s3.aynaott.com/storage/f48fd8e21c84d20403c84313d5e7024c",
+    "id": "695905d2fb1469e5acc9553a",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 34,
+    "name": "Sky News Weather",
+    "tvgId": "84600ec5-52b8-45fc-824a-3e3b4f7c9355",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/84600ec5-52b8-45fc-824a-3e3b4f7c9355",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/84600ec5-52b8-45fc-824a-3e3b4f7c9355",
+    "logoUrl": "https://s3.aynaott.com/storage/fb0cfbe0e8f40ccb2ee64066cb22a503",
+    "id": "695905d2fb1469e5acc9553e",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 35,
+    "name": "India Today",
+    "tvgId": "bd05c25c-2a31-496c-9534-1ab9c8e62a33",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/bd05c25c-2a31-496c-9534-1ab9c8e62a33",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/bd05c25c-2a31-496c-9534-1ab9c8e62a33",
+    "logoUrl": "https://s3.aynaott.com/storage/e0fafb582cf64a4c65f4efaf1c81bec0",
+    "id": "695905d3fb1469e5acc95542",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 36,
+    "name": "Awaaz India",
+    "tvgId": "9e68af86-7f32-40ba-8d0f-f12276f8e206",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9e68af86-7f32-40ba-8d0f-f12276f8e206",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9e68af86-7f32-40ba-8d0f-f12276f8e206",
+    "logoUrl": "https://s3.aynaott.com/storage/889c74f4194ce6aba687e0dd4dfaa7f4",
+    "id": "695905d3fb1469e5acc95546",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 37,
+    "name": "Iran Press",
+    "tvgId": "409a9d23-2206-4e2a-840c-1702571f3d38",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/409a9d23-2206-4e2a-840c-1702571f3d38",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/409a9d23-2206-4e2a-840c-1702571f3d38",
+    "logoUrl": "https://s3.aynaott.com/storage/13aebbcfce4c741eb0f93eb4e2784a11",
+    "id": "695905d3fb1469e5acc9554a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 38,
+    "name": "OAN",
+    "tvgId": "b1a47b97-b4eb-4462-8faa-65f5207a3506",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b1a47b97-b4eb-4462-8faa-65f5207a3506",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b1a47b97-b4eb-4462-8faa-65f5207a3506",
+    "logoUrl": "https://s3.aynaott.com/storage/94ed12d073ae315455934e7e74fbe27f",
+    "id": "695905d3fb1469e5acc9554e",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 39,
+    "name": "T Sports HD",
+    "tvgId": "fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
+    "logoUrl": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32",
+    "id": "695905d3fb1469e5acc95552",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 40,
+    "name": "Gazi TV",
+    "tvgId": "b1808fb2-8892-49dc-965e-d038e5334995",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b1808fb2-8892-49dc-965e-d038e5334995",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b1808fb2-8892-49dc-965e-d038e5334995",
+    "logoUrl": "https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c",
+    "id": "695905d3fb1469e5acc95556",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 41,
+    "name": "A sports",
+    "tvgId": "a3d48c46-7902-45e2-abf9-0fab60c4d117",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a3d48c46-7902-45e2-abf9-0fab60c4d117",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a3d48c46-7902-45e2-abf9-0fab60c4d117",
+    "logoUrl": "https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902",
+    "id": "695905d4fb1469e5acc9555a",
+    "genre": "Pakistan"
+  },
+  {
+    "channelNumber": 42,
+    "name": "PTV Sports",
+    "tvgId": "eacf6c3f-0773-4bc3-a03a-cfee09f10348",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348",
+    "logoUrl": "https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73",
+    "id": "695905d4fb1469e5acc9555e",
+    "genre": "Pakistan"
+  },
+  {
+    "channelNumber": 43,
+    "name": "Fox Sports 2",
+    "tvgId": "93c7e57d-e666-488a-aec9-a339a7e5eb74",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/93c7e57d-e666-488a-aec9-a339a7e5eb74",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/93c7e57d-e666-488a-aec9-a339a7e5eb74",
+    "logoUrl": "https://s3.aynaott.com/storage/498a04d4cec05dfc06989b7a0a84bcc1",
+    "id": "695905d4fb1469e5acc95562",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 44,
+    "name": "DUBAI SPORTS 1",
+    "tvgId": "a51ed57c-a9cb-4dcb-9160-eb0726835c45",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a51ed57c-a9cb-4dcb-9160-eb0726835c45",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a51ed57c-a9cb-4dcb-9160-eb0726835c45",
+    "logoUrl": "https://s3.aynaott.com/storage/5a8ac139e9c791c675ded04dd7f90529",
+    "id": "695905d4fb1469e5acc95566",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 45,
+    "name": "Talk Sport",
+    "tvgId": "6e70514c-5f8e-483b-8c97-3c971b558a74",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6e70514c-5f8e-483b-8c97-3c971b558a74",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6e70514c-5f8e-483b-8c97-3c971b558a74",
+    "logoUrl": "https://s3.aynaott.com/storage/08ea1ff4e3ac6e32678e90d9e1fcff61",
+    "id": "695905d4fb1469e5acc9556a",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 46,
+    "name": "KTV Sport Plus",
+    "tvgId": "3167764d-9154-4dda-a0cc-713ca5dee5d3",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3167764d-9154-4dda-a0cc-713ca5dee5d3",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3167764d-9154-4dda-a0cc-713ca5dee5d3",
+    "logoUrl": "https://s3.aynaott.com/storage/d9db3f2407053944af13981bed771305",
+    "id": "695905d5fb1469e5acc9556e",
+    "genre": "Kuwait"
+  },
+  {
+    "channelNumber": 47,
+    "name": "SPORTS FIRST TV",
+    "tvgId": "79ce27a8-bbfa-4661-a6ff-e6006e1510a3",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/79ce27a8-bbfa-4661-a6ff-e6006e1510a3",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/79ce27a8-bbfa-4661-a6ff-e6006e1510a3",
+    "logoUrl": "https://s3.aynaott.com/storage/839a0449bfa64ce5ce33108db7ee6c37",
+    "id": "695905d5fb1469e5acc95572",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 48,
+    "name": "Adventure Sports TV",
+    "tvgId": "92f21f87-4dc5-4f5e-bc9b-3aec49c0a923",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/92f21f87-4dc5-4f5e-bc9b-3aec49c0a923",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/92f21f87-4dc5-4f5e-bc9b-3aec49c0a923",
+    "logoUrl": "https://s3.aynaott.com/storage/c2bc3e7024fddce26dfda56a01b34007",
+    "id": "695905d5fb1469e5acc95576",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 49,
+    "name": "Marquee Sports Network",
+    "tvgId": "d774d6a3-906e-42b4-b21a-9090b533a1b1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d774d6a3-906e-42b4-b21a-9090b533a1b1",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d774d6a3-906e-42b4-b21a-9090b533a1b1",
+    "logoUrl": "https://s3.aynaott.com/storage/e8fe46b5eefb932bed78ddb9c1417d4f",
+    "id": "695905d5fb1469e5acc9557a",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 50,
+    "name": "MORE THEN SPORTS TV",
+    "tvgId": "0e1fb643-581b-40c5-bb62-1277a6a75ebf",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0e1fb643-581b-40c5-bb62-1277a6a75ebf",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0e1fb643-581b-40c5-bb62-1277a6a75ebf",
+    "logoUrl": "https://s3.aynaott.com/storage/0a6bd46071b90d697a9dde4239e3bdd9",
+    "id": "695905d5fb1469e5acc9557e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 51,
+    "name": "ORIGIN SPORTS",
+    "tvgId": "e0fe84eb-7d80-468c-8b1a-80fcaabf5629",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/e0fe84eb-7d80-468c-8b1a-80fcaabf5629",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/e0fe84eb-7d80-468c-8b1a-80fcaabf5629",
+    "logoUrl": "https://s3.aynaott.com/storage/a54e1bf56b063bb84fd41783d5102b67",
+    "id": "695905d6fb1469e5acc95582",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 52,
+    "name": "SHARJHA SPORTS TV",
+    "tvgId": "3c332dd0-4b54-417a-a310-75d5b70a16c5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3c332dd0-4b54-417a-a310-75d5b70a16c5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3c332dd0-4b54-417a-a310-75d5b70a16c5",
+    "logoUrl": "https://s3.aynaott.com/storage/0f77c53e551681aa684cc17483c3ee2c",
+    "id": "695905d6fb1469e5acc95586",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 53,
+    "name": "Sports Grid",
+    "tvgId": "d49b0b2b-0132-4fd8-be49-88145477ee1d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d49b0b2b-0132-4fd8-be49-88145477ee1d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d49b0b2b-0132-4fd8-be49-88145477ee1d",
+    "logoUrl": "https://s3.aynaott.com/storage/3f861fcc2ab5cbd79237ceebf0f33e36",
+    "id": "695905d6fb1469e5acc9558a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 54,
+    "name": "Tsport 7",
+    "tvgId": "6f4426c7-e48d-4b57-9747-4e0af8cc0365",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6f4426c7-e48d-4b57-9747-4e0af8cc0365",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6f4426c7-e48d-4b57-9747-4e0af8cc0365",
+    "logoUrl": "https://s3.aynaott.com/storage/71eeb40f82edb2a3c28fbfc8d79ecd71",
+    "id": "695905d6fb1469e5acc9558e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 55,
+    "name": "Xtream Sports",
+    "tvgId": "538b24c3-9493-44d5-be7c-482b51734f2c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/538b24c3-9493-44d5-be7c-482b51734f2c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/538b24c3-9493-44d5-be7c-482b51734f2c",
+    "logoUrl": "https://s3.aynaott.com/storage/195f5fde901dc4167245853f67eb043b",
+    "id": "695905d6fb1469e5acc95592",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 56,
+    "name": "Sports Connect",
+    "tvgId": "5a010510-7f4f-491e-9f74-8438d5154202",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/5a010510-7f4f-491e-9f74-8438d5154202",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/5a010510-7f4f-491e-9f74-8438d5154202",
+    "logoUrl": "https://s3.aynaott.com/storage/21844d114180cc501b70cee5102d3177",
+    "id": "695905d7fb1469e5acc95596",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 57,
+    "name": "Golf Channel",
+    "tvgId": "9954b40b-67df-4cd9-9303-e02d713ad0a0",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9954b40b-67df-4cd9-9303-e02d713ad0a0",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9954b40b-67df-4cd9-9303-e02d713ad0a0",
+    "logoUrl": "https://s3.aynaott.com/storage/9dfa920526ae8597cd53f63c1d72d666",
+    "id": "695905d7fb1469e5acc9559a",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 58,
+    "name": "Star Sport Select 1",
+    "tvgId": "594809c8-574e-46cf-a3e5-26e0bec1fe33",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/594809c8-574e-46cf-a3e5-26e0bec1fe33",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/594809c8-574e-46cf-a3e5-26e0bec1fe33",
+    "logoUrl": "https://s3.aynaott.com/storage/c63d1f7c9c6d3c0d0fa552bb141a7f57",
+    "id": "695905d7fb1469e5acc9559e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 59,
+    "name": "Geo Super HD",
+    "tvgId": "619f8fb4-35bc-4d19-bcbb-cd35b5843ac0",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/619f8fb4-35bc-4d19-bcbb-cd35b5843ac0",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/619f8fb4-35bc-4d19-bcbb-cd35b5843ac0",
+    "logoUrl": "https://s3.aynaott.com/storage/167972163e22b4904ad9e4286b49eb6e",
+    "id": "695905d7fb1469e5acc955a2",
+    "genre": "Pakistan"
+  },
+  {
+    "channelNumber": 60,
+    "name": "Willow HD TV",
+    "tvgId": "abfabaee-3898-4279-8645-3da5b0232867",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/abfabaee-3898-4279-8645-3da5b0232867",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/abfabaee-3898-4279-8645-3da5b0232867",
+    "logoUrl": "https://s3.aynaott.com/storage/ec104f6c336daca0e318a729f181e5b2",
+    "id": "695905d7fb1469e5acc955a6",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 61,
+    "name": "NFL Network",
+    "tvgId": "94069990-c00c-401a-af81-169ed39d1cb4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/94069990-c00c-401a-af81-169ed39d1cb4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/94069990-c00c-401a-af81-169ed39d1cb4",
+    "logoUrl": "https://s3.aynaott.com/storage/c672762900da39dc9eee15027accfb5c",
+    "id": "695905d8fb1469e5acc955aa",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 62,
+    "name": "TNT Sport 1",
+    "tvgId": "a57241fe-02b1-4a39-a602-84a57622be6c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a57241fe-02b1-4a39-a602-84a57622be6c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a57241fe-02b1-4a39-a602-84a57622be6c",
+    "logoUrl": "https://s3.aynaott.com/storage/4d7d15dd5a6b8bbe5b43bdf7598bf831",
+    "id": "695905d8fb1469e5acc955ae",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 63,
+    "name": "Fox Sports 1",
+    "tvgId": "719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb",
+    "logoUrl": "https://s3.aynaott.com/storage/fc53f127352ff48d4495407c0083b17b",
+    "id": "695905d8fb1469e5acc955b2",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 64,
+    "name": "TSN 1",
+    "tvgId": "576e5655-01d2-442f-b311-7c826d48fb7d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/576e5655-01d2-442f-b311-7c826d48fb7d",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/1552fc09ba15bbdb0f5305e29cb1db98",
+    "id": "695905d8fb1469e5acc955b6",
+    "genre": "Canada"
+  },
+  {
+    "channelNumber": 65,
+    "name": "TSN 3",
+    "tvgId": "9d3a1097-c171-4aee-99ad-e76c0c4a4c75",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9d3a1097-c171-4aee-99ad-e76c0c4a4c75",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/dc6dfbda1b1fe9b075a3d559c089fb43",
+    "id": "695905d8fb1469e5acc955ba",
+    "genre": "Canada"
+  },
+  {
+    "channelNumber": 66,
+    "name": "SUPER SPORTS PSL",
+    "tvgId": "9498e53f-cba5-4525-8538-46cf54900da7",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9498e53f-cba5-4525-8538-46cf54900da7",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9498e53f-cba5-4525-8538-46cf54900da7",
+    "logoUrl": "https://s3.aynaott.com/storage/3b2525267c06c25a6aef14491f3ad597",
+    "id": "695905d9fb1469e5acc955be",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 67,
+    "name": "Sky Sports Cricket HD",
+    "tvgId": "a3b44c1f-3086-4f46-a533-c34a55a30eb9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a3b44c1f-3086-4f46-a533-c34a55a30eb9",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a3b44c1f-3086-4f46-a533-c34a55a30eb9",
+    "logoUrl": "https://s3.aynaott.com/storage/1a24e8b448d55ba33129437bc4662cae",
+    "id": "695905d9fb1469e5acc955c2",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 68,
+    "name": "Sky Sports GOLF",
+    "tvgId": "b2d5d52b-a280-41da-b95c-8a53bef2fc1b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b2d5d52b-a280-41da-b95c-8a53bef2fc1b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b2d5d52b-a280-41da-b95c-8a53bef2fc1b",
+    "logoUrl": "https://s3.aynaott.com/storage/6280ad42591e15c360c8e791f236c721",
+    "id": "695905d9fb1469e5acc955c6",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 69,
+    "name": "Super Premier HD",
+    "tvgId": "bd578c46-5bce-409a-986d-376c85f20fc1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/bd578c46-5bce-409a-986d-376c85f20fc1",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/828b4d003db850f6c58fee4afa167199",
+    "id": "695905d9fb1469e5acc955ca",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 70,
+    "name": "Super Cricket HD 1",
+    "tvgId": "058490dc-acc7-4c54-9ca6-66f1f89cd556",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/058490dc-acc7-4c54-9ca6-66f1f89cd556",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/058490dc-acc7-4c54-9ca6-66f1f89cd556",
+    "logoUrl": "https://s3.aynaott.com/storage/f77f9a29280dfa47c8295ebe759445f6",
+    "id": "695905d9fb1469e5acc955ce",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 71,
+    "name": "Super Laliga HD",
+    "tvgId": "a9abe815-1164-4cd0-9438-16a0e2561588",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a9abe815-1164-4cd0-9438-16a0e2561588",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/8d37e50f191363cead13adb95628d6c0",
+    "id": "695905dafb1469e5acc955d2",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 72,
+    "name": "Sony TEN 1 HD",
+    "tvgId": "b04b3742-e2a1-4d56-8b3e-2b2154766ada",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/8",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/8",
+    "logoUrl": "http://tvassets.roarzone.info/images/20.png",
+    "id": "695905dafb1469e5acc955d6",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 73,
+    "name": "Dubai Sports 2",
+    "tvgId": "9c8e02cf-4765-4156-8ecf-999935c0115d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9c8e02cf-4765-4156-8ecf-999935c0115d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9c8e02cf-4765-4156-8ecf-999935c0115d",
+    "logoUrl": "https://s3.aynaott.com/storage/b2bb863e8e4b6c63d06fde2dd31bfdd7",
+    "id": "695905dafb1469e5acc955da",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 74,
+    "name": "CBS Sports Network USA",
+    "tvgId": "c3b46ebd-871b-48e6-9d7c-cbf562a925e5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c3b46ebd-871b-48e6-9d7c-cbf562a925e5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c3b46ebd-871b-48e6-9d7c-cbf562a925e5",
+    "logoUrl": "https://s3.aynaott.com/storage/2e2a89ef3bb92339f235cfd8169d49d3",
+    "id": "695905dafb1469e5acc955de",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 75,
+    "name": "CBS Sports HQ",
+    "tvgId": "033bbb18-00b9-4e7b-997b-9c738191be1d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/033bbb18-00b9-4e7b-997b-9c738191be1d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/033bbb18-00b9-4e7b-997b-9c738191be1d",
+    "logoUrl": "https://s3.aynaott.com/storage/1a34d0fb7aa8f82e0147f142ea2ed2ec",
+    "id": "695905dafb1469e5acc955e2",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 76,
+    "name": "Bahrain Sports 1",
+    "tvgId": "6d75259a-cecb-4905-8146-358ec6938c62",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6d75259a-cecb-4905-8146-358ec6938c62",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6d75259a-cecb-4905-8146-358ec6938c62",
+    "logoUrl": "https://s3.aynaott.com/storage/e26289ce19a053b8a31d02a3d3d2cc78",
+    "id": "695905dbfb1469e5acc955e6",
+    "genre": "Bahrain"
+  },
+  {
+    "channelNumber": 77,
+    "name": "Abu Dhabi Sports 2",
+    "tvgId": "cdc583dd-8031-4b7b-af12-34009af38744",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/cdc583dd-8031-4b7b-af12-34009af38744",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/cdc583dd-8031-4b7b-af12-34009af38744",
+    "logoUrl": "https://s3.aynaott.com/storage/453d902185dcc267936532f159461715",
+    "id": "695905dbfb1469e5acc955ea",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 78,
+    "name": "Abu Dhabi Sports 1",
+    "tvgId": "a7c5f56e-52ea-47ca-8b0a-27bf6148c667",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a7c5f56e-52ea-47ca-8b0a-27bf6148c667",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a7c5f56e-52ea-47ca-8b0a-27bf6148c667",
+    "logoUrl": "https://s3.aynaott.com/storage/6b89a8c47f1baf6d71b08c42839a6cc5",
+    "id": "695905dbfb1469e5acc955ee",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 79,
+    "name": "Cricket Gold",
+    "tvgId": "7747ecdd-ba30-4737-a600-54fdcdbcfebd",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7747ecdd-ba30-4737-a600-54fdcdbcfebd",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7747ecdd-ba30-4737-a600-54fdcdbcfebd",
+    "logoUrl": "https://s3.aynaott.com/storage/a937f1337f26a5d6be1b0a6a2a8be6be",
+    "id": "695905dbfb1469e5acc955f2",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 80,
+    "name": "DAZN Women's Football",
+    "tvgId": "1d07a144-9c0f-4cfd-86f0-70cca1837f23",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1d07a144-9c0f-4cfd-86f0-70cca1837f23",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1d07a144-9c0f-4cfd-86f0-70cca1837f23",
+    "logoUrl": "https://s3.aynaott.com/storage/3218a9ae87abf8d2b519fe02691fa667",
+    "id": "695905dbfb1469e5acc955f6",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 81,
+    "name": "Bleav Football",
+    "tvgId": "909428fa-8473-43b2-aad5-23cf86b0d829",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/909428fa-8473-43b2-aad5-23cf86b0d829",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/909428fa-8473-43b2-aad5-23cf86b0d829",
+    "logoUrl": "https://s3.aynaott.com/storage/820ff2af0efdff9d3e0c445cfd058ad9",
+    "id": "695905dcfb1469e5acc955fa",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 82,
+    "name": "DD Sports",
+    "tvgId": "3b238911-d385-406a-b936-07550f30a4f3",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3b238911-d385-406a-b936-07550f30a4f3",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3b238911-d385-406a-b936-07550f30a4f3",
+    "logoUrl": "https://s3.aynaott.com/storage/492c5690acef0b3af75b5e6f4fad0c29",
+    "id": "695905dcfb1469e5acc955fe",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 83,
+    "name": "Bahrain Sports 2",
+    "tvgId": "71e96376-d08c-4314-b2d6-449ff40a90b0",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/71e96376-d08c-4314-b2d6-449ff40a90b0",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/71e96376-d08c-4314-b2d6-449ff40a90b0",
+    "logoUrl": "https://s3.aynaott.com/storage/4e75afe1c38caff2b2958208830a3cdd",
+    "id": "695905dcfb1469e5acc95602",
+    "genre": "Bahrain"
+  },
+  {
+    "channelNumber": 84,
+    "name": "BEKTV Sports",
+    "tvgId": "eafcc358-d573-4974-aadc-277dc23d8d24",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/eafcc358-d573-4974-aadc-277dc23d8d24",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/eafcc358-d573-4974-aadc-277dc23d8d24",
+    "logoUrl": "https://s3.aynaott.com/storage/847cf8e8f0d9d22d66560dec18cae5b6",
+    "id": "695905dcfb1469e5acc95606",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 85,
+    "name": "Dubai Sports 3",
+    "tvgId": "e897cca2-8086-42cc-a492-e1f3e4d9aed9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/e897cca2-8086-42cc-a492-e1f3e4d9aed9",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/e897cca2-8086-42cc-a492-e1f3e4d9aed9",
+    "logoUrl": "https://s3.aynaott.com/storage/de6a0ecda062f9d11790c9bc80a2c835",
+    "id": "695905dcfb1469e5acc9560a",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 86,
+    "name": "NBC Sports",
+    "tvgId": "9f230f21-7a07-4b80-b845-77f9327ddad3",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9f230f21-7a07-4b80-b845-77f9327ddad3",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9f230f21-7a07-4b80-b845-77f9327ddad3",
+    "logoUrl": "https://s3.aynaott.com/storage/2fa9850b965f4b6e5ce632fc86558354",
+    "id": "695905ddfb1469e5acc9560e",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 87,
+    "name": "Oman Sports TV",
+    "tvgId": "0d69c371-f79e-40f8-8952-01be9e9cdb03",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0d69c371-f79e-40f8-8952-01be9e9cdb03",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0d69c371-f79e-40f8-8952-01be9e9cdb03",
+    "logoUrl": "https://s3.aynaott.com/storage/a843f715bc21ca2b6eefaf9c5ff34d27",
+    "id": "695905ddfb1469e5acc95612",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 88,
+    "name": "Sharjah Sports TV",
+    "tvgId": "e9c383b6-72cd-4825-b815-b388e8a7a5d9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/e9c383b6-72cd-4825-b815-b388e8a7a5d9",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/e9c383b6-72cd-4825-b815-b388e8a7a5d9",
+    "logoUrl": "https://s3.aynaott.com/storage/a77c8b75b75f71e20dbeec3cc4e5dd25",
+    "id": "695905ddfb1469e5acc95616",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 89,
+    "name": "STAR SPORTS 2 HD",
+    "tvgId": "3ac46078-2bf0-4998-a021-37b459e09fba",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3ac46078-2bf0-4998-a021-37b459e09fba",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3ac46078-2bf0-4998-a021-37b459e09fba",
+    "logoUrl": "https://s3.aynaott.com/storage/183b8360c1da698e8c87bc60708e252b",
+    "id": "695905ddfb1469e5acc9561a",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 90,
+    "name": "4 Sports",
+    "tvgId": "29ca0414-87d4-43c6-8477-68ef5a6391a6",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/29ca0414-87d4-43c6-8477-68ef5a6391a6",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/29ca0414-87d4-43c6-8477-68ef5a6391a6",
+    "logoUrl": "https://s3.aynaott.com/storage/2c2d91497d83b1c3a0fa04a50471aa64",
+    "id": "695905ddfb1469e5acc9561e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 91,
+    "name": "Sports TV",
+    "tvgId": "6669abd2-841b-4f76-8641-5ff355da7b8c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6669abd2-841b-4f76-8641-5ff355da7b8c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6669abd2-841b-4f76-8641-5ff355da7b8c",
+    "logoUrl": "https://s3.aynaott.com/storage/65ff27fc17b07a2c765dfca9251f1ba0",
+    "id": "695905ddfb1469e5acc95622",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 92,
+    "name": "WOF 1",
+    "tvgId": "d2152bbb-64e0-4822-826b-60853ca1d056",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d2152bbb-64e0-4822-826b-60853ca1d056",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d2152bbb-64e0-4822-826b-60853ca1d056",
+    "logoUrl": "https://s3.aynaott.com/storage/4bb1023a172b298e628fcee016ef246e",
+    "id": "695905defb1469e5acc95626",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 93,
+    "name": "PSN 1 Sports",
+    "tvgId": "9c354ad6-3efc-4e4d-9cd8-3584bcc9c315",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9c354ad6-3efc-4e4d-9cd8-3584bcc9c315",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9c354ad6-3efc-4e4d-9cd8-3584bcc9c315",
+    "logoUrl": "https://s3.aynaott.com/storage/28fd286a3d0c44f0596764fa8f09bf7e",
+    "id": "695905defb1469e5acc9562a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 94,
+    "name": "PSN 2 Sports",
+    "tvgId": "9e6373ed-e25b-49ef-9a76-35b144535f75",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9e6373ed-e25b-49ef-9a76-35b144535f75",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9e6373ed-e25b-49ef-9a76-35b144535f75",
+    "logoUrl": "https://s3.aynaott.com/storage/3fdd0fec88c3170bde6c1a0a97dd6e4f",
+    "id": "695905defb1469e5acc9562e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 95,
+    "name": "PSN 4 Sports",
+    "tvgId": "02a7f557-a6e7-4254-b9dd-f8c063ba97c5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/02a7f557-a6e7-4254-b9dd-f8c063ba97c5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/02a7f557-a6e7-4254-b9dd-f8c063ba97c5",
+    "logoUrl": "https://s3.aynaott.com/storage/424e37e642879a7dde12e5a5512e9ac4",
+    "id": "695905defb1469e5acc95632",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 96,
+    "name": "PSN 5 Sports",
+    "tvgId": "0790e6bd-458c-4f9d-86d9-1c554383b623",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0790e6bd-458c-4f9d-86d9-1c554383b623",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0790e6bd-458c-4f9d-86d9-1c554383b623",
+    "logoUrl": "https://s3.aynaott.com/storage/06f9809694ce11cf2c103a756d2ff10b",
+    "id": "695905defb1469e5acc95636",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 97,
+    "name": "Sports Fishing TV",
+    "tvgId": "33386cf6-4275-4e8a-93f8-a530f0db1e45",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/33386cf6-4275-4e8a-93f8-a530f0db1e45",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/33386cf6-4275-4e8a-93f8-a530f0db1e45",
+    "logoUrl": "https://s3.aynaott.com/storage/7c2cc7adddc2579e11d4a74acbcefce4",
+    "id": "695905dffb1469e5acc9563a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 98,
+    "name": "AfroSports Nigeria",
+    "tvgId": "b7696339-88ae-4db8-af9d-ab2af8b7036b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b7696339-88ae-4db8-af9d-ab2af8b7036b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b7696339-88ae-4db8-af9d-ab2af8b7036b",
+    "logoUrl": "https://s3.aynaott.com/storage/0cb60e3199cf394f583d19897491dd23",
+    "id": "695905dffb1469e5acc9563e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 99,
+    "name": "Auto Motor Sports",
+    "tvgId": "04d16b1a-2542-4566-80a5-0dcfc22588fe",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/04d16b1a-2542-4566-80a5-0dcfc22588fe",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/04d16b1a-2542-4566-80a5-0dcfc22588fe",
+    "logoUrl": "https://s3.aynaott.com/storage/7a5cc5583118a48d94e7920c20e187f6",
+    "id": "695905dffb1469e5acc95642",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 100,
+    "name": "Persiana Sports",
+    "tvgId": "862bc1f4-6430-4198-87c5-fa040776c1c7",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/862bc1f4-6430-4198-87c5-fa040776c1c7",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/862bc1f4-6430-4198-87c5-fa040776c1c7",
+    "logoUrl": "https://s3.aynaott.com/storage/8357a8153d27ce30ff2e5bbe7f1c19cd",
+    "id": "695905dffb1469e5acc95646",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 101,
+    "name": "Pro Sports International",
+    "tvgId": "38b0853b-8333-4387-bd86-8437073a1c49",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/38b0853b-8333-4387-bd86-8437073a1c49",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/38b0853b-8333-4387-bd86-8437073a1c49",
+    "logoUrl": "https://s3.aynaott.com/storage/580b671ab78fb6c5b98b1179c540a8a0",
+    "id": "695905dffb1469e5acc9564a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 102,
+    "name": "CT Sports",
+    "tvgId": "25c368ea-9818-44c8-b851-4cc8c79b8ea6",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/25c368ea-9818-44c8-b851-4cc8c79b8ea6",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/25c368ea-9818-44c8-b851-4cc8c79b8ea6",
+    "logoUrl": "https://s3.aynaott.com/storage/27d8ff83751a7436608c24e6e5456be3",
+    "id": "695905e0fb1469e5acc9564e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 103,
+    "name": "Rta sports",
+    "tvgId": "1a9b1673-3098-4451-ac14-28ab9c3b2a3b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1a9b1673-3098-4451-ac14-28ab9c3b2a3b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1a9b1673-3098-4451-ac14-28ab9c3b2a3b",
+    "logoUrl": "https://s3.aynaott.com/storage/bb6cb75d38ee71bcf792c15bb02c867e",
+    "id": "695905e0fb1469e5acc95652",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 104,
+    "name": "Motor Sports TV",
+    "tvgId": "db86c869-7bdd-44f5-9147-841d7cea1537",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/db86c869-7bdd-44f5-9147-841d7cea1537",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/db86c869-7bdd-44f5-9147-841d7cea1537",
+    "logoUrl": "https://s3.aynaott.com/storage/c3e0684d17879d7a6887087407f4a20a",
+    "id": "695905e0fb1469e5acc95656",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 105,
+    "name": "speed sports 1",
+    "tvgId": "3f01188b-bba8-44ed-a75a-2662c108450c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3f01188b-bba8-44ed-a75a-2662c108450c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3f01188b-bba8-44ed-a75a-2662c108450c",
+    "logoUrl": "https://s3.aynaott.com/storage/50289f4f361bf4fa0f25f16e285de642",
+    "id": "695905e0fb1469e5acc9565a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 106,
+    "name": "Trace Sport aus",
+    "tvgId": "198d2a2a-5d10-40e4-b62e-4ccd91301452",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/198d2a2a-5d10-40e4-b62e-4ccd91301452",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/198d2a2a-5d10-40e4-b62e-4ccd91301452",
+    "logoUrl": "https://s3.aynaott.com/storage/07d25f2a979f4ec85514df345a7fd813",
+    "id": "695905e0fb1469e5acc9565e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 107,
+    "name": "TW Sport",
+    "tvgId": "6f114777-b680-4452-af84-8ae072a48d99",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6f114777-b680-4452-af84-8ae072a48d99",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6f114777-b680-4452-af84-8ae072a48d99",
+    "logoUrl": "https://s3.aynaott.com/storage/2a4add1ee20d402c416d12ff83759fda",
+    "id": "695905e1fb1469e5acc95662",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 108,
+    "name": "Dubai Sports",
+    "tvgId": "b0bdcd1a-d9f8-4e45-92d2-deb4c842c691",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b0bdcd1a-d9f8-4e45-92d2-deb4c842c691",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b0bdcd1a-d9f8-4e45-92d2-deb4c842c691",
+    "logoUrl": "https://s3.aynaott.com/storage/ba3bd4fe024a41a1f9229e932ec6d846",
+    "id": "695905e1fb1469e5acc95666",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 109,
+    "name": "Sky Sports 2",
+    "tvgId": "a68dfa45-495d-419e-bc86-bfb0c4a82c93",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a68dfa45-495d-419e-bc86-bfb0c4a82c93",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a68dfa45-495d-419e-bc86-bfb0c4a82c93",
+    "logoUrl": "https://s3.aynaott.com/storage/5a1b66cc8279680425a1bee041f1407e",
+    "id": "695905e1fb1469e5acc9566a",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 110,
+    "name": "Solh Sports",
+    "tvgId": "1bbda610-2fcb-4dac-ba03-714a2591a8c4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1bbda610-2fcb-4dac-ba03-714a2591a8c4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1bbda610-2fcb-4dac-ba03-714a2591a8c4",
+    "logoUrl": "https://s3.aynaott.com/storage/02df6b5cd30ed8cc02e804ef50b8a805",
+    "id": "695905e1fb1469e5acc9566e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 111,
+    "name": "FanDuel Sports Network",
+    "tvgId": "54d1a43e-e26f-4a03-96b2-5911148617ae",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/54d1a43e-e26f-4a03-96b2-5911148617ae",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/28f86cca68ace385dc9516569ef9549a",
+    "id": "695905e1fb1469e5acc95672",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 112,
+    "name": "Tigo Sports",
+    "tvgId": "8e4fe384-51a5-454f-82b4-5e693739b716",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8e4fe384-51a5-454f-82b4-5e693739b716",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/23e3cae17a5c557232bc8870cb3493f4",
+    "id": "695905e2fb1469e5acc95676",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 113,
+    "name": "Sportsman Channel",
+    "tvgId": "9b959c71-2276-44cb-9146-6a094d0649fe",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9b959c71-2276-44cb-9146-6a094d0649fe",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/2b5e62112cbe7e6efc761b5062c344ed",
+    "id": "695905e2fb1469e5acc9567a",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 114,
+    "name": "Antena Sports",
+    "tvgId": "d4ccf1ce-494f-4775-8017-c68107aa7c0c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d4ccf1ce-494f-4775-8017-c68107aa7c0c",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/ced10af455337199017ee20e750b9f75",
+    "id": "695905e2fb1469e5acc9567e",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 115,
+    "name": "Sony Ten 2",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/9",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/9",
+    "logoUrl": "http://tvassets.roarzone.info/images/21.png",
+    "id": "695905e2fb1469e5acc95682",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 116,
+    "name": "Sony Ten 3",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/10",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/10",
+    "logoUrl": "http://tvassets.roarzone.info/images/22.png",
+    "id": "695905e2fb1469e5acc95686",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 117,
+    "name": "Star Sports 2",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/3",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/3",
+    "logoUrl": "http://tvassets.roarzone.info/images/26.png",
+    "id": "695905e3fb1469e5acc9568a",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 118,
+    "name": "Sony Six",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/11",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/11",
+    "logoUrl": "http://tvassets.roarzone.info/images/24.png",
+    "id": "695905e3fb1469e5acc9568e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 119,
+    "name": "T Sports HD (Backup)",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/1",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/1",
+    "logoUrl": "http://tvassets.roarzone.info/images/102.png",
+    "id": "695905e3fb1469e5acc95692",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 120,
+    "name": "Gazi TV (Backup)",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/4",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/4",
+    "logoUrl": "http://tvassets.roarzone.info/images/1.png",
+    "id": "695905e3fb1469e5acc95696",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 121,
+    "name": "Abc Australia",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/7",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/7",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/ABC_Australia_logo.svg",
+    "id": "695905e3fb1469e5acc9569a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 122,
+    "name": "Star Sport Select 1 (Backup)",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/12",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/12",
+    "logoUrl": "http://tvassets.roarzone.info/images/27.png",
+    "id": "695905e4fb1469e5acc9569e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 123,
+    "name": "Star Sport Select 2",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/13",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/13",
+    "logoUrl": "http://tvassets.roarzone.info/images/28.png",
+    "id": "695905e4fb1469e5acc956a2",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 124,
+    "name": "Euro Sports",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/14",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/14",
+    "logoUrl": "http://tvassets.roarzone.info/images/euro_sports_hd.png",
+    "id": "695905e4fb1469e5acc956a6",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 125,
+    "name": "Ten Cricket",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/16",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/16",
+    "logoUrl": "http://tvassets.roarzone.info/images/ten_cricket.png",
+    "id": "695905e4fb1469e5acc956aa",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 126,
+    "name": "Channel I",
+    "tvgId": "20714fd4-dc3c-46d6-924f-3038d61f027c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/20714fd4-dc3c-46d6-924f-3038d61f027c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/20714fd4-dc3c-46d6-924f-3038d61f027c",
+    "logoUrl": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261",
+    "id": "695905e4fb1469e5acc956ae",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 127,
+    "name": "NTV",
+    "tvgId": "1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d",
+    "logoUrl": "https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449",
+    "id": "695905e5fb1469e5acc956b2",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 128,
+    "name": "Bangla Vision",
+    "tvgId": "21e75798-3b6a-4214-9d93-b3fecaa4e700",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/21e75798-3b6a-4214-9d93-b3fecaa4e700",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/21e75798-3b6a-4214-9d93-b3fecaa4e700",
+    "logoUrl": "https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043",
+    "id": "695905e5fb1469e5acc956b6",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 129,
+    "name": "RTV",
+    "tvgId": "70e97db9-5a9e-4642-874e-af3d30ba9925",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/70e97db9-5a9e-4642-874e-af3d30ba9925",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/70e97db9-5a9e-4642-874e-af3d30ba9925",
+    "logoUrl": "https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991",
+    "id": "695905e5fb1469e5acc956ba",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 130,
+    "name": "ATN Bangla",
+    "tvgId": "9046949b-9847-4b5d-96c1-e82b0734444b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9046949b-9847-4b5d-96c1-e82b0734444b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9046949b-9847-4b5d-96c1-e82b0734444b",
+    "logoUrl": "https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22",
+    "id": "695905e5fb1469e5acc956be",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 131,
+    "name": "ETV",
+    "tvgId": "b3f0df76-15ba-4ede-a7de-bbaaf23a630e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b3f0df76-15ba-4ede-a7de-bbaaf23a630e",
+    "logoUrl": "https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4",
+    "id": "695905e5fb1469e5acc956c2",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 132,
+    "name": "Maasranga TV",
+    "tvgId": "9a94b22f-c4a4-4150-8eb9-129d0ddeb934",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934",
+    "logoUrl": "https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2",
+    "id": "695905e6fb1469e5acc956c6",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 133,
+    "name": "Deepto TV",
+    "tvgId": "0be12af9-e713-4c65-b4ed-b735793a0418",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0be12af9-e713-4c65-b4ed-b735793a0418",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0be12af9-e713-4c65-b4ed-b735793a0418",
+    "logoUrl": "https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8",
+    "id": "695905e6fb1469e5acc956ca",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 134,
+    "name": "Desh TV",
+    "tvgId": "dd8c50e9-5dad-4cb9-9df8-5763e95281ad",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad",
+    "logoUrl": "https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8",
+    "id": "695905e6fb1469e5acc956ce",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 135,
+    "name": "Boishakhi TV",
+    "tvgId": "92890d5c-473a-454c-ad10-2c6c0c91062a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/92890d5c-473a-454c-ad10-2c6c0c91062a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/92890d5c-473a-454c-ad10-2c6c0c91062a",
+    "logoUrl": "https://s3.aynaott.com/storage/ec66cdf9538da75b08112f9ae2f151bc",
+    "id": "695905e6fb1469e5acc956d2",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 136,
+    "name": "Channel 9",
+    "tvgId": "56f7abf3-1586-4f6d-9df2-1726ccb43779",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/56f7abf3-1586-4f6d-9df2-1726ccb43779",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/56f7abf3-1586-4f6d-9df2-1726ccb43779",
+    "logoUrl": "https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef",
+    "id": "695905e6fb1469e5acc956d6",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 137,
+    "name": "Asian TV",
+    "tvgId": "4d629b90-cfc2-4426-9eef-62b879efdb02",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4d629b90-cfc2-4426-9eef-62b879efdb02",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/4d629b90-cfc2-4426-9eef-62b879efdb02",
+    "logoUrl": "https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024",
+    "id": "695905e6fb1469e5acc956da",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 138,
+    "name": "SA TV",
+    "tvgId": "d07563b0-7580-4cbd-a7c9-e67535c0164a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d07563b0-7580-4cbd-a7c9-e67535c0164a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d07563b0-7580-4cbd-a7c9-e67535c0164a",
+    "logoUrl": "https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821",
+    "id": "695905e7fb1469e5acc956de",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 139,
+    "name": "Bangla TV",
+    "tvgId": "addb7014-1d2e-41d8-982d-7cafbdc48770",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/addb7014-1d2e-41d8-982d-7cafbdc48770",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/addb7014-1d2e-41d8-982d-7cafbdc48770",
+    "logoUrl": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
+    "id": "695905e7fb1469e5acc956e2",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 140,
+    "name": "Mohona TV",
+    "tvgId": "6662e038-604e-4cdc-87f7-8ec1cdf77a5e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e",
+    "logoUrl": "https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d",
+    "id": "695905e7fb1469e5acc956e6",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 141,
+    "name": "NEXUS TV",
+    "tvgId": "e64e1c11-1167-43a1-9e0f-995cbf6f7ff9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9",
+    "logoUrl": "https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9",
+    "id": "695905e7fb1469e5acc956ea",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 142,
+    "name": "Bijoy TV",
+    "tvgId": "f7c89459-37bf-4129-904d-33b0a4c0d590",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f7c89459-37bf-4129-904d-33b0a4c0d590",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f7c89459-37bf-4129-904d-33b0a4c0d590",
+    "logoUrl": "https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c",
+    "id": "695905e7fb1469e5acc956ee",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 143,
+    "name": "Global TV",
+    "tvgId": "0ac6af3d-acce-4d9d-9ce5-32d4b53f9326",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326",
+    "logoUrl": "https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b",
+    "id": "695905e8fb1469e5acc956f2",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 144,
+    "name": "My TV",
+    "tvgId": "c0480a4a-f066-4a20-9f7d-73bbd852260f",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c0480a4a-f066-4a20-9f7d-73bbd852260f",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c0480a4a-f066-4a20-9f7d-73bbd852260f",
+    "logoUrl": "https://s3.aynaott.com/storage/d93b76211f818fcce66e7f44119ce0be",
+    "id": "695905e8fb1469e5acc956f6",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 145,
+    "name": "Ananda TV",
+    "tvgId": "a108c4e9-ccfa-42f2-8f8f-169ded28cca2",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2",
+    "logoUrl": "https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f",
+    "id": "695905e8fb1469e5acc956fa",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 146,
+    "name": "ABC 7 Bay",
+    "tvgId": "63b750d3-73e9-4e8a-b04b-6c79bbcd4f13",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/63b750d3-73e9-4e8a-b04b-6c79bbcd4f13",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/63b750d3-73e9-4e8a-b04b-6c79bbcd4f13",
+    "logoUrl": "https://s3.aynaott.com/storage/95f5bd4eef3bf5b0ed0bc1d6953dfdd5",
+    "id": "695905e8fb1469e5acc956fe",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 147,
+    "name": "NHK World",
+    "tvgId": "369ffecf-00a9-49a9-864d-a8f45c7ef6db",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/369ffecf-00a9-49a9-864d-a8f45c7ef6db",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/369ffecf-00a9-49a9-864d-a8f45c7ef6db",
+    "logoUrl": "https://s3.aynaott.com/storage/f4390c1bba69689aba959b0ca52505c3",
+    "id": "695905e8fb1469e5acc95702",
+    "genre": "Japan"
+  },
+  {
+    "channelNumber": 148,
+    "name": "BBC America",
+    "tvgId": "fb22d339-2a01-4d88-b2af-8d5c9999bbe5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/fb22d339-2a01-4d88-b2af-8d5c9999bbe5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/fb22d339-2a01-4d88-b2af-8d5c9999bbe5",
+    "logoUrl": "https://s3.aynaott.com/storage/487a661d04d34a99f04873e0a0d4af55",
+    "id": "695905e9fb1469e5acc95706",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 149,
+    "name": "BTV NATIONAL HD",
+    "tvgId": "a0e6e9b6-b20b-4f54-82d6-881bef762cfd",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a0e6e9b6-b20b-4f54-82d6-881bef762cfd",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a0e6e9b6-b20b-4f54-82d6-881bef762cfd",
+    "logoUrl": "https://s3.aynaott.com/storage/a8f87ac6b4731011dcc61c957f56d47b",
+    "id": "695905e9fb1469e5acc9570a",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 150,
+    "name": "Aakaash Bangla TV",
+    "tvgId": "ed1ad924-f9f2-4302-97df-987bffb2b32e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/ed1ad924-f9f2-4302-97df-987bffb2b32e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/ed1ad924-f9f2-4302-97df-987bffb2b32e",
+    "logoUrl": "https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645",
+    "id": "695905e9fb1469e5acc9570e",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 151,
+    "name": "R Plus",
+    "tvgId": "8dc64f21-7dc8-4a41-a583-ddec9f112aeb",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8dc64f21-7dc8-4a41-a583-ddec9f112aeb",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8dc64f21-7dc8-4a41-a583-ddec9f112aeb",
+    "logoUrl": "https://s3.aynaott.com/storage/ce8cbde0c3d3f11583f2f25765db9667",
+    "id": "695905e9fb1469e5acc95712",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 152,
+    "name": "R Plus Gold",
+    "tvgId": "28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77",
+    "logoUrl": "https://s3.aynaott.com/storage/5acec30ce56099ac991cc2ed289aa920",
+    "id": "695905e9fb1469e5acc95716",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 153,
+    "name": "Rupshi Bangla",
+    "tvgId": "3aa4d27d-91e1-4afe-a6b5-de35beefae4f",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3aa4d27d-91e1-4afe-a6b5-de35beefae4f",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3aa4d27d-91e1-4afe-a6b5-de35beefae4f",
+    "logoUrl": "https://s3.aynaott.com/storage/a2e4c33ceb47390ffe673a946a749d79",
+    "id": "695905eafb1469e5acc9571a",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 154,
+    "name": "TV 9 Bangla",
+    "tvgId": "f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6",
+    "logoUrl": "https://s3.aynaott.com/storage/9abc522e7d57971c09e6a7c62714a09d",
+    "id": "695905eafb1469e5acc9571e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 155,
+    "name": "Zee 24 Ghanta",
+    "tvgId": "71b599fa-1284-46c3-a2de-9eaab38d74de",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/71b599fa-1284-46c3-a2de-9eaab38d74de",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/71b599fa-1284-46c3-a2de-9eaab38d74de",
+    "logoUrl": "https://s3.aynaott.com/storage/8f72b7b45026c70cf2dd23aa187f5d45",
+    "id": "695905eafb1469e5acc95722",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 156,
+    "name": "kolkata TV",
+    "tvgId": "262789f8-92af-4738-986c-c5deafeef997",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/262789f8-92af-4738-986c-c5deafeef997",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/262789f8-92af-4738-986c-c5deafeef997",
+    "logoUrl": "https://s3.aynaott.com/storage/74e02cf4a1fbd11e78275d819779e7e1",
+    "id": "695905eafb1469e5acc95726",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 157,
+    "name": "Hi Dost",
+    "tvgId": "f35879ff-4b1e-46b7-b429-9a020a4a3242",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f35879ff-4b1e-46b7-b429-9a020a4a3242",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f35879ff-4b1e-46b7-b429-9a020a4a3242",
+    "logoUrl": "https://s3.aynaott.com/storage/65bfd765b12b7a79aca246bf2ebc1363",
+    "id": "695905eafb1469e5acc9572a",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 158,
+    "name": "Dabangg",
+    "tvgId": "ff7cadd6-b13a-40af-9976-e92057e30a40",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/ff7cadd6-b13a-40af-9976-e92057e30a40",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/ff7cadd6-b13a-40af-9976-e92057e30a40",
+    "logoUrl": "https://s3.aynaott.com/storage/30e0db44c31b8f7fe50eb88f3ebcc5c3",
+    "id": "695905ebfb1469e5acc9572e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 159,
+    "name": "Dhamaal",
+    "tvgId": "630b8f21-f5b8-4c05-b2c1-af8333d533c1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/630b8f21-f5b8-4c05-b2c1-af8333d533c1",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/630b8f21-f5b8-4c05-b2c1-af8333d533c1",
+    "logoUrl": "https://s3.aynaott.com/storage/a9bfa44f1b6d53e81088e9d443549b6a",
+    "id": "695905ebfb1469e5acc95732",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 160,
+    "name": "ShemarooTV",
+    "tvgId": "2571fc63-ed1e-4107-b92d-bd4335d601dc",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/2571fc63-ed1e-4107-b92d-bd4335d601dc",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/2571fc63-ed1e-4107-b92d-bd4335d601dc",
+    "logoUrl": "https://s3.aynaott.com/storage/42cf0233a6006f78541257f56e23c6f7",
+    "id": "695905ebfb1469e5acc95736",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 161,
+    "name": "TheQ",
+    "tvgId": "a787feb3-0d50-41ad-9d43-f2cc02fada70",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a787feb3-0d50-41ad-9d43-f2cc02fada70",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a787feb3-0d50-41ad-9d43-f2cc02fada70",
+    "logoUrl": "https://s3.aynaott.com/storage/bcb9a31947ba4e5229e1148404a50d58",
+    "id": "695905ebfb1469e5acc9573a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 162,
+    "name": "Dangal",
+    "tvgId": "56217203-21d2-4ca8-af74-b5b037a6f7f0",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/56217203-21d2-4ca8-af74-b5b037a6f7f0",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/56217203-21d2-4ca8-af74-b5b037a6f7f0",
+    "logoUrl": "https://s3.aynaott.com/storage/3dfef9c749495740ac0ee09d2545f042",
+    "id": "695905ebfb1469e5acc9573e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 163,
+    "name": "Dangal 2",
+    "tvgId": "31e02282-4cac-4747-ac93-bd74be3c78d5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/31e02282-4cac-4747-ac93-bd74be3c78d5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/31e02282-4cac-4747-ac93-bd74be3c78d5",
+    "logoUrl": "https://s3.aynaott.com/storage/cbf4f321a1a024c8a240a6d477125e93",
+    "id": "695905ecfb1469e5acc95742",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 164,
+    "name": "Taaza TV",
+    "tvgId": "f9f17a87-2cef-4639-9788-f26422ac7fbe",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f9f17a87-2cef-4639-9788-f26422ac7fbe",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f9f17a87-2cef-4639-9788-f26422ac7fbe",
+    "logoUrl": "https://s3.aynaott.com/storage/1fff0595da9963d1faf78a70126ce688",
+    "id": "695905ecfb1469e5acc95746",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 165,
+    "name": "Assam Talks",
+    "tvgId": "f7ef6919-d8e1-42da-8f34-ddd3364c27c1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f7ef6919-d8e1-42da-8f34-ddd3364c27c1",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f7ef6919-d8e1-42da-8f34-ddd3364c27c1",
+    "logoUrl": "https://s3.aynaott.com/storage/281200f1a1a49c2210c9ae059fc77826",
+    "id": "695905ecfb1469e5acc9574a",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 166,
+    "name": "B4U Kadak",
+    "tvgId": "d15d9237-42e6-453c-ba74-0fa1b339d57a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d15d9237-42e6-453c-ba74-0fa1b339d57a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d15d9237-42e6-453c-ba74-0fa1b339d57a",
+    "logoUrl": "https://s3.aynaott.com/storage/489524ce63b0db739db032dc38320422",
+    "id": "695905ecfb1469e5acc9574e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 167,
+    "name": "Goldmines",
+    "tvgId": "c7f57cda-5a87-48c5-a758-4273db0864d2",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c7f57cda-5a87-48c5-a758-4273db0864d2",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c7f57cda-5a87-48c5-a758-4273db0864d2",
+    "logoUrl": "https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5",
+    "id": "695905ecfb1469e5acc95755",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 168,
+    "name": "B4U Hitz",
+    "tvgId": "7ce49cae-2511-40ed-a687-3102c6e29872",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7ce49cae-2511-40ed-a687-3102c6e29872",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7ce49cae-2511-40ed-a687-3102c6e29872",
+    "logoUrl": "https://s3.aynaott.com/storage/f433e71ec6155b0e25addb5a73fcfb55",
+    "id": "695905edfb1469e5acc9575e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 169,
+    "name": "NTV Europe",
+    "tvgId": "140f1e47-362e-4fec-ba69-d766b6b03a32",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/140f1e47-362e-4fec-ba69-d766b6b03a32",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/140f1e47-362e-4fec-ba69-d766b6b03a32",
+    "logoUrl": "https://s3.aynaott.com/storage/4c0efea4f87d343995fb661bad39a066",
+    "id": "695905edfb1469e5acc95762",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 170,
+    "name": "Millennium TV",
+    "tvgId": "50de5fa7-d6a7-48bf-9058-bd7aa1809e56",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/50de5fa7-d6a7-48bf-9058-bd7aa1809e56",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/50de5fa7-d6a7-48bf-9058-bd7aa1809e56",
+    "logoUrl": "https://s3.aynaott.com/storage/0aa1e3a22a6f3f2edbb7941b4e80eb6a",
+    "id": "695905edfb1469e5acc95766",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 171,
+    "name": "TV ONE",
+    "tvgId": "2eb119c5-7864-421a-a153-8d6b7b372e9b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/2eb119c5-7864-421a-a153-8d6b7b372e9b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/2eb119c5-7864-421a-a153-8d6b7b372e9b",
+    "logoUrl": "https://s3.aynaott.com/storage/2a5dd1494cbeb28bfa70ba2b7d8682e1",
+    "id": "695905edfb1469e5acc9576c",
+    "genre": "Pakistan"
+  },
+  {
+    "channelNumber": 172,
+    "name": "BTV World",
+    "tvgId": "888a4c91-241e-47de-b9e5-11495d6cc596",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/888a4c91-241e-47de-b9e5-11495d6cc596",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/888a4c91-241e-47de-b9e5-11495d6cc596",
+    "logoUrl": "https://s3.aynaott.com/storage/a03665c6ba5aae42a29ad700effdcfca",
+    "id": "695905edfb1469e5acc95773",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 173,
+    "name": "Goal TV",
+    "tvgId": "8cf7e03a-c0c4-4373-8b4f-d2f0c809472c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8cf7e03a-c0c4-4373-8b4f-d2f0c809472c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8cf7e03a-c0c4-4373-8b4f-d2f0c809472c",
+    "logoUrl": "https://s3.aynaott.com/storage/9a44d3ec49289b11e7a218367aab61ac",
+    "id": "695905eefb1469e5acc95778",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 174,
+    "name": "BTV CTG",
+    "tvgId": "7c5fee98-96e2-43df-95f4-ae8ded8e9efe",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7c5fee98-96e2-43df-95f4-ae8ded8e9efe",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7c5fee98-96e2-43df-95f4-ae8ded8e9efe",
+    "logoUrl": "https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd",
+    "id": "695905eefb1469e5acc9577e",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 175,
+    "name": "Rongeen TV",
+    "tvgId": "d7541d99-14a5-4775-b90f-8681070ba80a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d7541d99-14a5-4775-b90f-8681070ba80a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d7541d99-14a5-4775-b90f-8681070ba80a",
+    "logoUrl": "https://s3.aynaott.com/storage/76d4392c02aa3008cbc93f1c9fea25c1",
+    "id": "695905eefb1469e5acc95783",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 176,
+    "name": "ASPARK TV",
+    "tvgId": "b04e24f1-9260-484c-ad3b-4f3f1058b5db",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b04e24f1-9260-484c-ad3b-4f3f1058b5db",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b04e24f1-9260-484c-ad3b-4f3f1058b5db",
+    "logoUrl": "https://s3.aynaott.com/storage/1c754145a6f172a306dc2287945e8e85",
+    "id": "695905eefb1469e5acc95787",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 177,
+    "name": "Fox 5",
+    "tvgId": "442d91ee-46f3-4dc7-bbde-05f6775e9e6f",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/442d91ee-46f3-4dc7-bbde-05f6775e9e6f",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/442d91ee-46f3-4dc7-bbde-05f6775e9e6f",
+    "logoUrl": "https://s3.aynaott.com/storage/5c1c4226b2c12b3c0bb3c258700f72d0",
+    "id": "695905eefb1469e5acc9578b",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 178,
+    "name": "Dhinchaak",
+    "tvgId": "353f1b20-3f65-4477-8251-6c3c58a3a12e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/353f1b20-3f65-4477-8251-6c3c58a3a12e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/353f1b20-3f65-4477-8251-6c3c58a3a12e",
+    "logoUrl": "https://s3.aynaott.com/storage/23190c1fbf811928410cf917250d6aa2",
+    "id": "695905effb1469e5acc9578f",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 179,
+    "name": "Manoranjan TV",
+    "tvgId": "960d0db1-3409-49b7-87da-61fe83fa2d8b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/960d0db1-3409-49b7-87da-61fe83fa2d8b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/960d0db1-3409-49b7-87da-61fe83fa2d8b",
+    "logoUrl": "https://s3.aynaott.com/storage/1519c2d5dc918d992b1ff360a53910cb",
+    "id": "695905effb1469e5acc95793",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 180,
+    "name": "AXS",
+    "tvgId": "2f6357b3-11db-4fc3-aa84-ad1d48ee8526",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/2f6357b3-11db-4fc3-aa84-ad1d48ee8526",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/2f6357b3-11db-4fc3-aa84-ad1d48ee8526",
+    "logoUrl": "https://s3.aynaott.com/storage/9dc7c7df79789e885fb298bcb58b703b",
+    "id": "695905effb1469e5acc95797",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 181,
+    "name": "Network 10",
+    "tvgId": "30c01099-08c9-45d3-91b2-572ca4c173eb",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/30c01099-08c9-45d3-91b2-572ca4c173eb",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/30c01099-08c9-45d3-91b2-572ca4c173eb",
+    "logoUrl": "https://s3.aynaott.com/storage/cb1a6dd677fb40e88847218c047d6bc3",
+    "id": "695905effb1469e5acc9579b",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 182,
+    "name": "TRT World",
+    "tvgId": "3ef6eb8b-32f9-4775-85a6-2ccc4b15d658",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3ef6eb8b-32f9-4775-85a6-2ccc4b15d658",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3ef6eb8b-32f9-4775-85a6-2ccc4b15d658",
+    "logoUrl": "https://s3.aynaott.com/storage/81f430c3ba8fca6161ee6532de19debd",
+    "id": "695905effb1469e5acc9579f",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 183,
+    "name": "Channel Win",
+    "tvgId": "9b1539aa-d73b-4310-8809-d44b37995e6d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9b1539aa-d73b-4310-8809-d44b37995e6d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9b1539aa-d73b-4310-8809-d44b37995e6d",
+    "logoUrl": "https://s3.aynaott.com/storage/74482456eb20e9afa811293a6efcc703",
+    "id": "695905f0fb1469e5acc957a3",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 184,
+    "name": "Sony TV HD",
+    "tvgId": "0b0235db-e5b4-48d9-95bc-30a7e3228947",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0b0235db-e5b4-48d9-95bc-30a7e3228947",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0b0235db-e5b4-48d9-95bc-30a7e3228947",
+    "logoUrl": "https://s3.aynaott.com/storage/838ac6ede3fca74f793cde5dccabf3c4",
+    "id": "695905f0fb1469e5acc957a7",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 185,
+    "name": "BRAVO",
+    "tvgId": "edebdbdf-3290-42e7-8cda-cc8584cb1c32",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/edebdbdf-3290-42e7-8cda-cc8584cb1c32",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/edebdbdf-3290-42e7-8cda-cc8584cb1c32",
+    "logoUrl": "https://s3.aynaott.com/storage/b185ee61feb0bdd25924e8cee5169507",
+    "id": "695905f0fb1469e5acc957ab",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 186,
+    "name": "COMEDY CENTRAL",
+    "tvgId": "26689f92-263e-417b-bdc3-fef8f7eb7fa5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/26689f92-263e-417b-bdc3-fef8f7eb7fa5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/26689f92-263e-417b-bdc3-fef8f7eb7fa5",
+    "logoUrl": "https://s3.aynaott.com/storage/9435def30963cca4ae331beb1848395c",
+    "id": "695905f0fb1469e5acc957af",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 187,
+    "name": "LAFF TV",
+    "tvgId": "02deb7af-2139-41ec-96af-3f805a168021",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/02deb7af-2139-41ec-96af-3f805a168021",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/02deb7af-2139-41ec-96af-3f805a168021",
+    "logoUrl": "https://s3.aynaott.com/storage/bdea542ab8e7e690eadafe19b9fda890",
+    "id": "695905f0fb1469e5acc957b3",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 188,
+    "name": "LIFE TIME",
+    "tvgId": "393d86c3-5518-4f70-94f1-af2f388d9181",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/393d86c3-5518-4f70-94f1-af2f388d9181",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/393d86c3-5518-4f70-94f1-af2f388d9181",
+    "logoUrl": "https://s3.aynaott.com/storage/92ffa78d159f3dd8bb3b99676ba58d0f",
+    "id": "695905f1fb1469e5acc957b7",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 189,
+    "name": "IBTV USA",
+    "tvgId": "f7f53551-5bcf-4704-9652-18a8b70568ca",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f7f53551-5bcf-4704-9652-18a8b70568ca",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f7f53551-5bcf-4704-9652-18a8b70568ca",
+    "logoUrl": "https://s3.aynaott.com/storage/f35737db9b254d12a393044bb17ee529",
+    "id": "695905f1fb1469e5acc957bb",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 190,
+    "name": "CBS TV",
+    "tvgId": "18a1811e-58b0-474a-9dde-00c3f6140749",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/18a1811e-58b0-474a-9dde-00c3f6140749",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/18a1811e-58b0-474a-9dde-00c3f6140749",
+    "logoUrl": "https://s3.aynaott.com/storage/6f8c834cf47cf1501a62581699732319",
+    "id": "695905f1fb1469e5acc957bf",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 191,
+    "name": "CP 24",
+    "tvgId": "398702be-6ac4-4878-90bb-ada4a7d56d21",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/398702be-6ac4-4878-90bb-ada4a7d56d21",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/398702be-6ac4-4878-90bb-ada4a7d56d21",
+    "logoUrl": "https://s3.aynaott.com/storage/4e21114ecbe7c117e3e6fd31a062bb71",
+    "id": "695905f1fb1469e5acc957c3",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 192,
+    "name": "USA TV",
+    "tvgId": "f6f1a6ed-4629-4010-b50d-13fa4dd9a575",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f6f1a6ed-4629-4010-b50d-13fa4dd9a575",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f6f1a6ed-4629-4010-b50d-13fa4dd9a575",
+    "logoUrl": "https://s3.aynaott.com/storage/4a8c4ef5769fdd11b640dcf5795221bd",
+    "id": "695905f1fb1469e5acc957c7",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 193,
+    "name": "TIME TV USA",
+    "tvgId": "9fe49249-fae7-402d-b5b1-6710691bbcf6",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9fe49249-fae7-402d-b5b1-6710691bbcf6",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9fe49249-fae7-402d-b5b1-6710691bbcf6",
+    "logoUrl": "https://s3.aynaott.com/storage/9bf1ba0b8818b41171793a48c165c9f3",
+    "id": "695905f1fb1469e5acc957cb",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 194,
+    "name": "Hindi Khabar",
+    "tvgId": "963a3050-6e3b-4de0-a945-bf075677b685",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/963a3050-6e3b-4de0-a945-bf075677b685",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/963a3050-6e3b-4de0-a945-bf075677b685",
+    "logoUrl": "https://s3.aynaott.com/storage/752bf7ab5d6c8b76e93544ab9aa100f3",
+    "id": "695905f2fb1469e5acc957cf",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 195,
+    "name": "Bharat Samachar",
+    "tvgId": "cc7357ac-f5cd-4824-ac68-5d26c56a5bbb",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/cc7357ac-f5cd-4824-ac68-5d26c56a5bbb",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/cc7357ac-f5cd-4824-ac68-5d26c56a5bbb",
+    "logoUrl": "https://s3.aynaott.com/storage/c8f0ba85f27db97c0f51eca0589ccc4d",
+    "id": "695905f2fb1469e5acc957d3",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 196,
+    "name": "VTV USA",
+    "tvgId": "7ba34de6-f932-440a-9fe4-190679a2d9a0",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7ba34de6-f932-440a-9fe4-190679a2d9a0",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7ba34de6-f932-440a-9fe4-190679a2d9a0",
+    "logoUrl": "https://s3.aynaott.com/storage/4b63579ae9367bbb20b33513fb52f3b0",
+    "id": "695905f2fb1469e5acc957d8",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 197,
+    "name": "Star Life HD",
+    "tvgId": "e84dc0fa-25fb-4a56-a8e1-e1b0087af728",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/e84dc0fa-25fb-4a56-a8e1-e1b0087af728",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/e84dc0fa-25fb-4a56-a8e1-e1b0087af728",
+    "logoUrl": "https://s3.aynaott.com/storage/6b28d34e8cd3a801e57205ff43589d24",
+    "id": "695905f2fb1469e5acc957e0",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 198,
+    "name": "TBS",
+    "tvgId": "a1c8c162-0892-444b-8e84-0d62b9aa69f6",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a1c8c162-0892-444b-8e84-0d62b9aa69f6",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a1c8c162-0892-444b-8e84-0d62b9aa69f6",
+    "logoUrl": "https://s3.aynaott.com/storage/b527d78b2b9404214f6f1c89d9fd5ff3",
+    "id": "695905f2fb1469e5acc957e5",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 199,
+    "name": "Revolt",
+    "tvgId": "54b59c45-9064-4ce6-b6cd-12895b34319d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/54b59c45-9064-4ce6-b6cd-12895b34319d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/54b59c45-9064-4ce6-b6cd-12895b34319d",
+    "logoUrl": "https://s3.aynaott.com/storage/f628d6b1a0fbb5bc48131b347d52e8a8",
+    "id": "695905f3fb1469e5acc957ea",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 200,
+    "name": "Zee Bangla International",
+    "tvgId": "890a1a92-0602-4c2d-93ca-a2c43e7aec54",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/890a1a92-0602-4c2d-93ca-a2c43e7aec54",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/890a1a92-0602-4c2d-93ca-a2c43e7aec54",
+    "logoUrl": "https://s3.aynaott.com/storage/104a86bd3ae874796e873dae9ebe1b40",
+    "id": "695905f3fb1469e5acc957f0",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 201,
+    "name": "NR1",
+    "tvgId": "ce1252de-2d9b-4f2f-b601-2ee995a13371",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/ce1252de-2d9b-4f2f-b601-2ee995a13371",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/ce1252de-2d9b-4f2f-b601-2ee995a13371",
+    "logoUrl": "https://s3.aynaott.com/storage/77363ea6be4724682d2ba1223246916f",
+    "id": "695905f3fb1469e5acc957f4",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 202,
+    "name": "Finans Turk",
+    "tvgId": "93475856-6996-4ebd-9b1e-b39fefadfe9f",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/93475856-6996-4ebd-9b1e-b39fefadfe9f",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/93475856-6996-4ebd-9b1e-b39fefadfe9f",
+    "logoUrl": "https://s3.aynaott.com/storage/978cc2842990d6c36d5b6d9453607775",
+    "id": "695905f3fb1469e5acc957f8",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 203,
+    "name": "Ekin Turk",
+    "tvgId": "9cf16121-07d4-48c1-9f36-14ee8b7e3f31",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9cf16121-07d4-48c1-9f36-14ee8b7e3f31",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9cf16121-07d4-48c1-9f36-14ee8b7e3f31",
+    "logoUrl": "https://s3.aynaott.com/storage/689a960bf33c0412ba1077752b632c3d",
+    "id": "695905f3fb1469e5acc957fc",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 204,
+    "name": "Dream Turk",
+    "tvgId": "525df3f4-ce22-4008-be5d-e25410fd7248",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/525df3f4-ce22-4008-be5d-e25410fd7248",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/525df3f4-ce22-4008-be5d-e25410fd7248",
+    "logoUrl": "https://s3.aynaott.com/storage/21b1f8665ed080a8c4f4ec9014de22da",
+    "id": "695905f4fb1469e5acc95800",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 205,
+    "name": "Al-Zahar TV Turkic",
+    "tvgId": "11b82c1f-aeeb-45b3-85b0-0a753604a2bd",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/11b82c1f-aeeb-45b3-85b0-0a753604a2bd",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/11b82c1f-aeeb-45b3-85b0-0a753604a2bd",
+    "logoUrl": "https://s3.aynaott.com/storage/1c85326769e43577ea7b6b73bb16ba06",
+    "id": "695905f4fb1469e5acc95804",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 206,
+    "name": "Afroturk TV",
+    "tvgId": "06aecebc-0e41-4117-b069-d36dff730869",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/06aecebc-0e41-4117-b069-d36dff730869",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/06aecebc-0e41-4117-b069-d36dff730869",
+    "logoUrl": "https://s3.aynaott.com/storage/f4e08ab98f26325954871671ab4716df",
+    "id": "695905f4fb1469e5acc95808",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 207,
+    "name": "Y\u00fcksek Sosyete",
+    "tvgId": "ad3d7b22-47d4-40e2-9b9f-753039e5a1ab",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/ad3d7b22-47d4-40e2-9b9f-753039e5a1ab",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/ad3d7b22-47d4-40e2-9b9f-753039e5a1ab",
+    "logoUrl": "https://s3.aynaott.com/storage/d920ec337095d22a96522e9a71067b0b",
+    "id": "695905f4fb1469e5acc9580c",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 208,
+    "name": "RDS Social TV",
+    "tvgId": "fc4dfffa-ceff-404f-bf3b-1de7c6771ae5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/fc4dfffa-ceff-404f-bf3b-1de7c6771ae5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/fc4dfffa-ceff-404f-bf3b-1de7c6771ae5",
+    "logoUrl": "https://s3.aynaott.com/storage/a756b8c8a5f6cf65140f84ee26cfedf8",
+    "id": "695905f4fb1469e5acc95810",
+    "genre": "Canada"
+  },
+  {
+    "channelNumber": 209,
+    "name": "Global Socil TV",
+    "tvgId": "7b485392-fa4e-4756-a88c-0df044f835e6",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7b485392-fa4e-4756-a88c-0df044f835e6",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7b485392-fa4e-4756-a88c-0df044f835e6",
+    "logoUrl": "https://s3.aynaott.com/storage/713116c1c6ed94ad2d198026f6556d49",
+    "id": "695905f5fb1469e5acc95814",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 210,
+    "name": "DD Bangla",
+    "tvgId": "8df44874-5511-4c78-a854-8ab6dd6861e5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8df44874-5511-4c78-a854-8ab6dd6861e5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8df44874-5511-4c78-a854-8ab6dd6861e5",
+    "logoUrl": "https://s3.aynaott.com/storage/bad2eb1cf359a4c6a9c12b0260234c59",
+    "id": "695905f5fb1469e5acc95818",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 211,
+    "name": "Enter 10 Bangla",
+    "tvgId": "1092effd-ec5f-4842-a9eb-09db84a23415",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1092effd-ec5f-4842-a9eb-09db84a23415",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1092effd-ec5f-4842-a9eb-09db84a23415",
+    "logoUrl": "https://s3.aynaott.com/storage/4aed66dcc0d1c6c91fbb0a64f0f2fbdc",
+    "id": "695905f5fb1469e5acc9581c",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 212,
+    "name": "Discover Pikstan",
+    "tvgId": "0158eec7-6eb2-4dac-83ac-78da727c3134",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0158eec7-6eb2-4dac-83ac-78da727c3134",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0158eec7-6eb2-4dac-83ac-78da727c3134",
+    "logoUrl": "https://s3.aynaott.com/storage/97c72186db2b83765885b3c7b050e005",
+    "id": "695905f5fb1469e5acc95820",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 213,
+    "name": "Pluto TV Action",
+    "tvgId": "8d412aff-3ff8-4b5c-b786-7c228f29113e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8d412aff-3ff8-4b5c-b786-7c228f29113e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8d412aff-3ff8-4b5c-b786-7c228f29113e",
+    "logoUrl": "https://s3.aynaott.com/storage/00570b93ad4e6560acac261ccaefa1db",
+    "id": "695905f5fb1469e5acc95828",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 214,
+    "name": "World War TV",
+    "tvgId": "b2598ee7-734c-4265-9d9a-82ec8e1100e9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b2598ee7-734c-4265-9d9a-82ec8e1100e9",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b2598ee7-734c-4265-9d9a-82ec8e1100e9",
+    "logoUrl": "https://s3.aynaott.com/storage/a54a310c8fd0dc85949ab0a20e4306a2",
+    "id": "695905f6fb1469e5acc9582e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 215,
+    "name": "Hayder TV",
+    "tvgId": "0a38c2b8-f8b3-4dee-8a8a-4899f821988a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0a38c2b8-f8b3-4dee-8a8a-4899f821988a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0a38c2b8-f8b3-4dee-8a8a-4899f821988a",
+    "logoUrl": "https://s3.aynaott.com/storage/180056a85ff5736e66e5155c0e5aa2ec",
+    "id": "695905f6fb1469e5acc95832",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 216,
+    "name": "Geo ENT",
+    "tvgId": "edc93090-78ee-4af8-9d81-8c4a70ae632d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/edc93090-78ee-4af8-9d81-8c4a70ae632d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/edc93090-78ee-4af8-9d81-8c4a70ae632d",
+    "logoUrl": "https://s3.aynaott.com/storage/d50a8ac555622d1d7e53f1232bb1769e",
+    "id": "695905f6fb1469e5acc95839",
+    "genre": "Pakistan"
+  },
+  {
+    "channelNumber": 217,
+    "name": "Halchal TV",
+    "tvgId": "9148c031-53d0-4e7d-adba-b2382d4e8988",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9148c031-53d0-4e7d-adba-b2382d4e8988",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9148c031-53d0-4e7d-adba-b2382d4e8988",
+    "logoUrl": "https://s3.aynaott.com/storage/92e8f28c80ea7ae20daa3269d7a91737",
+    "id": "695905f6fb1469e5acc9583d",
+    "genre": "Pakistan"
+  },
+  {
+    "channelNumber": 218,
+    "name": "medical incredible",
+    "tvgId": "d121d1c2-6343-477a-b0c9-662bde83c83e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d121d1c2-6343-477a-b0c9-662bde83c83e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d121d1c2-6343-477a-b0c9-662bde83c83e",
+    "logoUrl": "https://s3.aynaott.com/storage/0a47f62da178585681d0077272c15ffe",
+    "id": "695905f6fb1469e5acc95841",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 219,
+    "name": "CMAC TV",
+    "tvgId": "00d97c7a-dda7-410e-9081-8b0e5b51e1f0",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/00d97c7a-dda7-410e-9081-8b0e5b51e1f0",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/00d97c7a-dda7-410e-9081-8b0e5b51e1f0",
+    "logoUrl": "https://s3.aynaott.com/storage/a73b77539f602d156e7f36ad022c4e9f",
+    "id": "695905f7fb1469e5acc95845",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 220,
+    "name": "4 Afganistan",
+    "tvgId": "c5a46f6e-9112-4043-82ff-e9e79156f8f8",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c5a46f6e-9112-4043-82ff-e9e79156f8f8",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c5a46f6e-9112-4043-82ff-e9e79156f8f8",
+    "logoUrl": "https://s3.aynaott.com/storage/a7c10c9a746bc1ab641d24e19136291d",
+    "id": "695905f7fb1469e5acc95849",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 221,
+    "name": "Drama 24",
+    "tvgId": "c7b00628-bc52-4609-be0a-ad02a16e4c04",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c7b00628-bc52-4609-be0a-ad02a16e4c04",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c7b00628-bc52-4609-be0a-ad02a16e4c04",
+    "logoUrl": "https://s3.aynaott.com/storage/ed3412b08ea7a0fa8f0100647183dabc",
+    "id": "695905f7fb1469e5acc9584d",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 222,
+    "name": "Court TV",
+    "tvgId": "7d81cb6f-d9f2-4d87-adf3-84e6fcc65983",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7d81cb6f-d9f2-4d87-adf3-84e6fcc65983",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7d81cb6f-d9f2-4d87-adf3-84e6fcc65983",
+    "logoUrl": "https://s3.aynaott.com/storage/2c2593003919c7c343f07e4701be5d98",
+    "id": "695905f7fb1469e5acc95851",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 223,
+    "name": "Dubai One",
+    "tvgId": "1fab9ff5-a704-4457-b028-3251afbb040d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1fab9ff5-a704-4457-b028-3251afbb040d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1fab9ff5-a704-4457-b028-3251afbb040d",
+    "logoUrl": "https://s3.aynaott.com/storage/69e16027720775059539e56eb1826fcf",
+    "id": "695905f7fb1469e5acc95855",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 224,
+    "name": "Dubai TV",
+    "tvgId": "d9b700ff-3282-4654-b872-0b45081f72f3",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d9b700ff-3282-4654-b872-0b45081f72f3",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d9b700ff-3282-4654-b872-0b45081f72f3",
+    "logoUrl": "https://s3.aynaott.com/storage/24e0544433ec0014baf4d1977bf2d824",
+    "id": "695905f8fb1469e5acc9585d",
+    "genre": "United Arab Emirates"
+  },
+  {
+    "channelNumber": 225,
+    "name": "And tv",
+    "tvgId": "9df4ab05-debd-4bed-ac64-028579037c73",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9df4ab05-debd-4bed-ac64-028579037c73",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9df4ab05-debd-4bed-ac64-028579037c73",
+    "logoUrl": "https://s3.aynaott.com/storage/ea0f9f258946422ab7dea562045b69eb",
+    "id": "695905f8fb1469e5acc95863",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 226,
+    "name": "Star Plus HD",
+    "tvgId": "7c1ebf52-7d45-4319-9a58-4539c53cc027",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/74524e79-5f3a-4824-8202-b9e346acb9a4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/74524e79-5f3a-4824-8202-b9e346acb9a4",
+    "logoUrl": "https://s3.aynaott.com/storage/2c895306931f54f9e456065fc569774e",
+    "id": "695905f8fb1469e5acc95867",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 227,
+    "name": "Star Jalsha HD",
+    "tvgId": "f07177e9-d1a9-48b4-8e2e-1718d098bbfb",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f07177e9-d1a9-48b4-8e2e-1718d098bbfb",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f07177e9-d1a9-48b4-8e2e-1718d098bbfb",
+    "logoUrl": "https://s3.aynaott.com/storage/4ff00dded2772db0288101b80c10f07b",
+    "id": "695905f8fb1469e5acc9586e",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 228,
+    "name": "BKP",
+    "tvgId": "3d0db49c-0199-4ee3-afcf-2dcb9be8c5a8",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3d0db49c-0199-4ee3-afcf-2dcb9be8c5a8",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/d9bb27d75db682a43f8db9ab484e4474",
+    "id": "695905f9fb1469e5acc95872",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 229,
+    "name": "Saudia Radio",
+    "tvgId": "47c1f346-8f50-467d-b4ba-8c6084950aa9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/47c1f346-8f50-467d-b4ba-8c6084950aa9",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/d08c4238696ea30df0a73d698d5cc10a",
+    "id": "695905f9fb1469e5acc95876",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 230,
+    "name": "&TV",
+    "tvgId": "97bad0e5-0210-4380-802c-12ce3b01f775",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/97bad0e5-0210-4380-802c-12ce3b01f775",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/ea0f9f258946422ab7dea562045b69eb",
+    "id": "695905f9fb1469e5acc9587c",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 231,
+    "name": "Sony Aath",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/48",
+    "webStreamUrl": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8",
+    "logoUrl": "https://i.ibb.co/QFGb0FDV/images.jpg",
+    "id": "695905f9fb1469e5acc95883",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 232,
+    "name": "Colors Bangla HD",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/47",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/47",
+    "logoUrl": "http://tvassets.roarzone.info/images/66.png",
+    "id": "695905f9fb1469e5acc95888",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 233,
+    "name": "Colors HD",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/21",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/21",
+    "logoUrl": "http://tvassets.roarzone.info/images/68.png",
+    "id": "695905fafb1469e5acc9588f",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 234,
+    "name": "Zee TV HD",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/23",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/23",
+    "logoUrl": "http://tvassets.roarzone.info/images/40.png",
+    "id": "695905fafb1469e5acc95893",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 235,
+    "name": "& TV HD (Backup)",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/28",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/28",
+    "logoUrl": "http://tvassets.roarzone.info/images/74.png",
+    "id": "695905fafb1469e5acc95897",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 236,
+    "name": "Hum TV",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/30",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/30",
+    "logoUrl": "http://tvassets.roarzone.info/images/humtv.png",
+    "id": "695905fafb1469e5acc9589b",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 237,
+    "name": "Zee  Anmol",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/31",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/31",
+    "logoUrl": "http://tvassets.roarzone.info/images/zee-anmol.png",
+    "id": "695905fafb1469e5acc9589f",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 238,
+    "name": "Hum Sitarey",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/33",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/33",
+    "logoUrl": "http://tvassets.roarzone.info/images/humsitarey.png",
+    "id": "695905fbfb1469e5acc958a3",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 239,
+    "name": "Goldmines Bollywood",
+    "tvgId": "b80579f2-22d3-4b12-881e-60139810a791",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b80579f2-22d3-4b12-881e-60139810a791",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd",
+    "id": "695905fbfb1469e5acc958a9",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 240,
+    "name": "Goldmines Movies",
+    "tvgId": "1f8a84b3-8079-4c29-9e73-f219664e9d4d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1f8a84b3-8079-4c29-9e73-f219664e9d4d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1f8a84b3-8079-4c29-9e73-f219664e9d4d",
+    "logoUrl": "https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb",
+    "id": "695905fbfb1469e5acc958b0",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 241,
+    "name": "B4U Movies India",
+    "tvgId": "47b010b6-9296-4e7f-9cfa-284e020a8984",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/47b010b6-9296-4e7f-9cfa-284e020a8984",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/47b010b6-9296-4e7f-9cfa-284e020a8984",
+    "logoUrl": "https://s3.aynaott.com/storage/0e9aa42713fcb1abb4b54219666e7d38",
+    "id": "695905fbfb1469e5acc958b5",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 242,
+    "name": "Movie Bangla",
+    "tvgId": "d80aa15f-6487-40de-9bf7-04dd8203d5f4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d80aa15f-6487-40de-9bf7-04dd8203d5f4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d80aa15f-6487-40de-9bf7-04dd8203d5f4",
+    "logoUrl": "https://s3.aynaott.com/storage/d52461c6810c54bf3aa32518224b6066",
+    "id": "695905fbfb1469e5acc958bb",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 243,
+    "name": "HBO",
+    "tvgId": "1124edfa-0c73-4389-8c8c-988b8ae65460",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1124edfa-0c73-4389-8c8c-988b8ae65460",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1124edfa-0c73-4389-8c8c-988b8ae65460",
+    "logoUrl": "https://s3.aynaott.com/storage/2576d772b73b7bc7535cdfe4c656a56f",
+    "id": "695905fcfb1469e5acc958c0",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 244,
+    "name": "Manoranjan Movies",
+    "tvgId": "631ca0d6-474b-41ad-9ffc-24adc9931731",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/631ca0d6-474b-41ad-9ffc-24adc9931731",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/631ca0d6-474b-41ad-9ffc-24adc9931731",
+    "logoUrl": "https://s3.aynaott.com/storage/d17aa63ce5887296d1aa9b7f0388ddb4",
+    "id": "695905fcfb1469e5acc958c4",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 245,
+    "name": "pix 11",
+    "tvgId": "a5963ff0-36c4-4a1f-b8ce-5356c890a859",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a5963ff0-36c4-4a1f-b8ce-5356c890a859",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/9cd1bbbc2a4e8e3f5258f2df42dcdaf5",
+    "id": "695905fcfb1469e5acc958c8",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 246,
+    "name": "AMC TV",
+    "tvgId": "a5e00efc-bb52-4e9f-9726-a256ffbf7397",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a5e00efc-bb52-4e9f-9726-a256ffbf7397",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a5e00efc-bb52-4e9f-9726-a256ffbf7397",
+    "logoUrl": "https://s3.aynaott.com/storage/83774f423a5661d9456601fb7c7164e3",
+    "id": "695905fcfb1469e5acc958ce",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 247,
+    "name": "Khushboo",
+    "tvgId": "dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1",
+    "logoUrl": "https://s3.aynaott.com/storage/f52f1e1bf297eb0b755629d1009c50b5",
+    "id": "695905fcfb1469e5acc958d5",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 248,
+    "name": "Movie Today",
+    "tvgId": "3c57401b-76ef-486e-8c7b-b3eff2f3e0e6",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3c57401b-76ef-486e-8c7b-b3eff2f3e0e6",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3c57401b-76ef-486e-8c7b-b3eff2f3e0e6",
+    "logoUrl": "https://s3.aynaott.com/storage/94bb9a6d5b3ff12c6e686c3401f67da6",
+    "id": "695905fcfb1469e5acc958da",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 249,
+    "name": "Dhamaka Movies",
+    "tvgId": "cca69f06-02d4-4b39-aad9-f24688b81d0d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/cca69f06-02d4-4b39-aad9-f24688b81d0d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/cca69f06-02d4-4b39-aad9-f24688b81d0d",
+    "logoUrl": "https://s3.aynaott.com/storage/ebe34fb8603a2550deb3c46193b03701",
+    "id": "695905fdfb1469e5acc958e1",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 250,
+    "name": "EPIX TV",
+    "tvgId": "5b8f4aa1-7073-45c2-8d3d-9309db02d2d7",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/5b8f4aa1-7073-45c2-8d3d-9309db02d2d7",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/5b8f4aa1-7073-45c2-8d3d-9309db02d2d7",
+    "logoUrl": "https://s3.aynaott.com/storage/21907b1a47756836d50d451a5739aa78",
+    "id": "695905fdfb1469e5acc958e5",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 251,
+    "name": "FX TV",
+    "tvgId": "d4175eaa-ec06-43fc-a022-cfd5432e31b9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d4175eaa-ec06-43fc-a022-cfd5432e31b9",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d4175eaa-ec06-43fc-a022-cfd5432e31b9",
+    "logoUrl": "https://s3.aynaott.com/storage/3d07f0936fe1b859a2cb01d4f9469f3e",
+    "id": "695905fdfb1469e5acc958e9",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 252,
+    "name": "HBO 2",
+    "tvgId": "4804c4fb-4d32-4a91-88e2-fa6d0798f6a5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4804c4fb-4d32-4a91-88e2-fa6d0798f6a5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/4804c4fb-4d32-4a91-88e2-fa6d0798f6a5",
+    "logoUrl": "https://s3.aynaott.com/storage/16a04b881a4c2968a04af7aececa6293",
+    "id": "695905fdfb1469e5acc958ed",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 253,
+    "name": "SKY CINEMA ANIMATION",
+    "tvgId": "1426f66b-7413-4bab-91a9-af2ac5c15474",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1426f66b-7413-4bab-91a9-af2ac5c15474",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1426f66b-7413-4bab-91a9-af2ac5c15474",
+    "logoUrl": "https://s3.aynaott.com/storage/375401be87f21014c775b02d8835c20e",
+    "id": "695905fdfb1469e5acc958f3",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 254,
+    "name": "SYFY TV",
+    "tvgId": "979764c3-92a0-46d0-9408-a3d458fc761e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/979764c3-92a0-46d0-9408-a3d458fc761e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/979764c3-92a0-46d0-9408-a3d458fc761e",
+    "logoUrl": "https://s3.aynaott.com/storage/a9c9febc6e5e849ddd0ac989fe02b0fa",
+    "id": "695905fefb1469e5acc958fa",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 255,
+    "name": "And Flix HD",
+    "tvgId": "e6084a77-7e9c-457f-88e9-31d2254d2f61",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/e6084a77-7e9c-457f-88e9-31d2254d2f61",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/e6084a77-7e9c-457f-88e9-31d2254d2f61",
+    "logoUrl": "https://s3.aynaott.com/storage/00b7b5ab133870e2d9a18214cd7d1a69",
+    "id": "695905fefb1469e5acc958ff",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 256,
+    "name": "Action Hollywood Movies",
+    "tvgId": "f1acb290-c4c1-4010-8226-3f88b203c79c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f1acb290-c4c1-4010-8226-3f88b203c79c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f1acb290-c4c1-4010-8226-3f88b203c79c",
+    "logoUrl": "https://s3.aynaott.com/storage/0abbb3e539c5f9b6883c2a41b1113a26",
+    "id": "695905fefb1469e5acc95905",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 257,
+    "name": "Hallmark Movies",
+    "tvgId": "307777ec-0dd3-4e09-9835-5fe3844054dd",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/307777ec-0dd3-4e09-9835-5fe3844054dd",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/307777ec-0dd3-4e09-9835-5fe3844054dd",
+    "logoUrl": "https://s3.aynaott.com/storage/69015a71861010c5136d144e8e67dd1c",
+    "id": "695905fefb1469e5acc9590a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 258,
+    "name": "Movie Favorites By Lifetime",
+    "tvgId": "316a5d94-a40c-4953-8d7f-73fd6ca8bfa4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/316a5d94-a40c-4953-8d7f-73fd6ca8bfa4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/316a5d94-a40c-4953-8d7f-73fd6ca8bfa4",
+    "logoUrl": "https://s3.aynaott.com/storage/4532248b0f5efdf45a4c6b523f8f76b6",
+    "id": "695905fefb1469e5acc9590e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 259,
+    "name": "Movie Action",
+    "tvgId": "cb2b9fce-7fcf-4b32-9361-fe10b6961e9c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/cb2b9fce-7fcf-4b32-9361-fe10b6961e9c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/cb2b9fce-7fcf-4b32-9361-fe10b6961e9c",
+    "logoUrl": "https://s3.aynaott.com/storage/a4afca9960efadc86ad5e744ad233a63",
+    "id": "695905fffb1469e5acc95912",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 260,
+    "name": "Movie Sphere",
+    "tvgId": "e061189b-415d-4241-b0ab-7077924c6775",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/e061189b-415d-4241-b0ab-7077924c6775",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/e061189b-415d-4241-b0ab-7077924c6775",
+    "logoUrl": "https://s3.aynaott.com/storage/e9f58871207dc8af21e3fc4c962e4fda",
+    "id": "695905fffb1469e5acc95917",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 261,
+    "name": "My Time Movie Network",
+    "tvgId": "7fbf5222-8534-4aa6-a25c-2c5c8fda9975",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7fbf5222-8534-4aa6-a25c-2c5c8fda9975",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7fbf5222-8534-4aa6-a25c-2c5c8fda9975",
+    "logoUrl": "https://s3.aynaott.com/storage/e1dc3aa29e436a9cabc5f4baa3df9454",
+    "id": "695905fffb1469e5acc9591f",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 262,
+    "name": "Rakuten Movies",
+    "tvgId": "61b39e9d-7b21-414a-8050-a6d8cf68363b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/61b39e9d-7b21-414a-8050-a6d8cf68363b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/61b39e9d-7b21-414a-8050-a6d8cf68363b",
+    "logoUrl": "https://s3.aynaott.com/storage/c2ac20c6e84e0e37c75c2a474d6ea194",
+    "id": "695905fffb1469e5acc95924",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 263,
+    "name": "Cowboy Movie Channel",
+    "tvgId": "fe98def1-6f32-4ff5-83df-ddc1531e7016",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/fe98def1-6f32-4ff5-83df-ddc1531e7016",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/fe98def1-6f32-4ff5-83df-ddc1531e7016",
+    "logoUrl": "https://s3.aynaott.com/storage/e102209d22cc836dd979e21a0d9e54e5",
+    "id": "695905fffb1469e5acc9592a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 264,
+    "name": "Hindi Movie Classic 24",
+    "tvgId": "4d5c3f29-c835-4920-8fa0-c0bafeaa31ed",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4d5c3f29-c835-4920-8fa0-c0bafeaa31ed",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/4d5c3f29-c835-4920-8fa0-c0bafeaa31ed",
+    "logoUrl": "https://s3.aynaott.com/storage/048e46f46e171ee350f8838ba9f99c02",
+    "id": "69590600fb1469e5acc9592f",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 265,
+    "name": "Persiana Kore",
+    "tvgId": "25059629-bb42-48d2-bcbc-8aa5c14e7f85",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/25059629-bb42-48d2-bcbc-8aa5c14e7f85",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/2a14fab13a9f3f83d9e5f1b484637f30",
+    "id": "69590600fb1469e5acc95933",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 266,
+    "name": "Star Movies",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/54",
+    "webStreamUrl": "",
+    "logoUrl": "https://i.ibb.co/pjkWz86M/star-movies-logo-3-png.jpg",
+    "id": "69590600fb1469e5acc95937",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 267,
+    "name": "Star Jalsha",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/44",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/44",
+    "logoUrl": "http://tvassets.roarzone.info/images/31.png",
+    "id": "69590600fb1469e5acc9593c",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 268,
+    "name": "Zee Bangla Cinema",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/46",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/46",
+    "logoUrl": "http://tvassets.roarzone.info/images/29.png",
+    "id": "69590600fb1469e5acc95944",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 269,
+    "name": "Star Gold HD",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/17",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/17",
+    "logoUrl": "http://tvassets.roarzone.info/images/75.png",
+    "id": "69590601fb1469e5acc9594b",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 270,
+    "name": "Sony MAX",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/19",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/19",
+    "logoUrl": "http://tvassets.roarzone.info/images/sonymax.png",
+    "id": "69590601fb1469e5acc95952",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 271,
+    "name": "Sony MAX HD",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/20",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/20",
+    "logoUrl": "http://tvassets.roarzone.info/images/sonymaxhd.png",
+    "id": "69590601fb1469e5acc95957",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 272,
+    "name": "Sony MAX 2",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/22",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/22",
+    "logoUrl": "http://tvassets.roarzone.info/images/sonymax2.png",
+    "id": "69590601fb1469e5acc9595b",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 273,
+    "name": "Zee Cinema",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/24",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/24",
+    "logoUrl": "http://tvassets.roarzone.info/images/76.png",
+    "id": "69590602fb1469e5acc9595f",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 274,
+    "name": "Zee Bollywood",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/25",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/25",
+    "logoUrl": "http://tvassets.roarzone.info/images/94.png",
+    "id": "69590602fb1469e5acc95965",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 275,
+    "name": "Zee Action",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/26",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/26",
+    "logoUrl": "http://tvassets.roarzone.info/images/90.png",
+    "id": "69590602fb1469e5acc9596c",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 276,
+    "name": "& Pictures",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/29",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/29",
+    "logoUrl": "http://tvassets.roarzone.info/images/100.png",
+    "id": "69590602fb1469e5acc95971",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 277,
+    "name": "Zee Cafe HD",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/55",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/55",
+    "logoUrl": "http://tvassets.roarzone.info/images/69.png",
+    "id": "69590602fb1469e5acc95977",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 278,
+    "name": "Sony Pix",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/56",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/56",
+    "logoUrl": "http://tvassets.roarzone.info/images/41.png",
+    "id": "69590603fb1469e5acc9597c",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 279,
+    "name": "Duronto TV",
+    "tvgId": "9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c",
+    "logoUrl": "https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc",
+    "id": "69590603fb1469e5acc95980",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 280,
+    "name": "Cartoon Network",
+    "tvgId": "e73ffada-f80a-4c23-9bd8-76142e41c389",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/e73ffada-f80a-4c23-9bd8-76142e41c389",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/e73ffada-f80a-4c23-9bd8-76142e41c389",
+    "logoUrl": "https://s3.aynaott.com/storage/80d0b169bd027e8bf54a5e75f31d1d75",
+    "id": "69590603fb1469e5acc95984",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 281,
+    "name": "Disney JR",
+    "tvgId": "a9791899-66f2-4b94-9521-c333498f7ab9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a9791899-66f2-4b94-9521-c333498f7ab9",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a9791899-66f2-4b94-9521-c333498f7ab9",
+    "logoUrl": "https://s3.aynaott.com/storage/8bf8ccf7bc01db3b8c4bc8576fb16f9d",
+    "id": "69590603fb1469e5acc95988",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 282,
+    "name": "Nicktoons",
+    "tvgId": "3830c379-539b-4e18-9943-9664574c850b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3830c379-539b-4e18-9943-9664574c850b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3830c379-539b-4e18-9943-9664574c850b",
+    "logoUrl": "https://s3.aynaott.com/storage/d3e8d014002832d32c029f445c105aae",
+    "id": "69590603fb1469e5acc95990",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 283,
+    "name": "Nickjr",
+    "tvgId": "c197b1bc-8909-4176-a50f-f855a4a51c1f",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c197b1bc-8909-4176-a50f-f855a4a51c1f",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c197b1bc-8909-4176-a50f-f855a4a51c1f",
+    "logoUrl": "https://s3.aynaott.com/storage/722bc45fb2bc26f967c2e22714095ad5",
+    "id": "69590604fb1469e5acc95996",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 284,
+    "name": "Disney Channel",
+    "tvgId": "1d7ad29d-ee4d-4590-a446-7db6d6aea230",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1d7ad29d-ee4d-4590-a446-7db6d6aea230",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1d7ad29d-ee4d-4590-a446-7db6d6aea230",
+    "logoUrl": "https://s3.aynaott.com/storage/750b284beb0b3639790dbc183b008901",
+    "id": "69590604fb1469e5acc9599b",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 285,
+    "name": "Disney XD",
+    "tvgId": "1f6fd722-dea2-4463-8938-81e6bdc94189",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1f6fd722-dea2-4463-8938-81e6bdc94189",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1f6fd722-dea2-4463-8938-81e6bdc94189",
+    "logoUrl": "https://s3.aynaott.com/storage/3817227a6b180dc147a89c2b667acf50",
+    "id": "69590604fb1469e5acc959a1",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 286,
+    "name": "Family JR",
+    "tvgId": "d188a20a-8640-4511-a228-3a141c675629",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d188a20a-8640-4511-a228-3a141c675629",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d188a20a-8640-4511-a228-3a141c675629",
+    "logoUrl": "https://s3.aynaott.com/storage/a4430d70a74aab1c1a284f4dae8131df",
+    "id": "69590604fb1469e5acc959a5",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 287,
+    "name": "Nickelodeon",
+    "tvgId": "d8c19a31-9752-40cd-a392-fb95928a66b8",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d8c19a31-9752-40cd-a392-fb95928a66b8",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d8c19a31-9752-40cd-a392-fb95928a66b8",
+    "logoUrl": "https://s3.aynaott.com/storage/7872e438f032c00fb8699fe7e57a5dc9",
+    "id": "69590604fb1469e5acc959a9",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 288,
+    "name": "Teen Nick",
+    "tvgId": "319225e9-8bd9-4848-a93b-fd5737809b0c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/319225e9-8bd9-4848-a93b-fd5737809b0c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/319225e9-8bd9-4848-a93b-fd5737809b0c",
+    "logoUrl": "https://s3.aynaott.com/storage/26da9dc3da3c13a1b8476af11a934105",
+    "id": "69590605fb1469e5acc959af",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 289,
+    "name": "Universal Kids",
+    "tvgId": "db46c74d-d2d2-4044-bc04-173f15a23864",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/db46c74d-d2d2-4044-bc04-173f15a23864",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/db46c74d-d2d2-4044-bc04-173f15a23864",
+    "logoUrl": "https://s3.aynaott.com/storage/34b34ea697a61867328a54056832957b",
+    "id": "69590605fb1469e5acc959b6",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 290,
+    "name": "YTV",
+    "tvgId": "7c972a23-cee8-47f0-b61a-ac15d57002e4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7c972a23-cee8-47f0-b61a-ac15d57002e4",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/072dcedd6c65b98d813ab23641f28255",
+    "id": "69590605fb1469e5acc959bb",
+    "genre": "Canada"
+  },
+  {
+    "channelNumber": 291,
+    "name": "TVC Arabic Kids",
+    "tvgId": "581cac8b-5962-4686-adb7-cb15e4624020",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/581cac8b-5962-4686-adb7-cb15e4624020",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/581cac8b-5962-4686-adb7-cb15e4624020",
+    "logoUrl": "https://s3.aynaott.com/storage/a94bbf2609a31f9a50b36c6d924aa387",
+    "id": "69590605fb1469e5acc959c1",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 292,
+    "name": "Pluto TV Kids Animation",
+    "tvgId": "92719d66-9061-470f-9a7f-1ddf112720c1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/92719d66-9061-470f-9a7f-1ddf112720c1",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/92719d66-9061-470f-9a7f-1ddf112720c1",
+    "logoUrl": "https://s3.aynaott.com/storage/dafbbc4a6f1b676fd5ca7cb3f73bc8bd",
+    "id": "69590605fb1469e5acc959c6",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 293,
+    "name": "Moonbug Kids",
+    "tvgId": "240c79af-7625-4384-9052-88dd73134ea1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/240c79af-7625-4384-9052-88dd73134ea1",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/240c79af-7625-4384-9052-88dd73134ea1",
+    "logoUrl": "https://s3.aynaott.com/storage/9b417f8a796216ce10c12ad10bb8ff05",
+    "id": "69590606fb1469e5acc959ca",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 294,
+    "name": "M NET Kids",
+    "tvgId": "d8909fcb-c413-48f5-b31b-54cbee95dd4e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d8909fcb-c413-48f5-b31b-54cbee95dd4e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d8909fcb-c413-48f5-b31b-54cbee95dd4e",
+    "logoUrl": "https://s3.aynaott.com/storage/0b81808a440086d6b3ae6753cbd0cf25",
+    "id": "69590606fb1469e5acc959ce",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 295,
+    "name": "Kids Pang TV",
+    "tvgId": "79242874-bae7-449f-aec0-2bfe9593c694",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/79242874-bae7-449f-aec0-2bfe9593c694",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/79242874-bae7-449f-aec0-2bfe9593c694",
+    "logoUrl": "https://s3.aynaott.com/storage/b185552caee43053c62e46de26b1457a",
+    "id": "69590606fb1469e5acc959d4",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 296,
+    "name": "kids Cartoon Movies",
+    "tvgId": "210c516d-b1d2-4e76-9402-b1ba3e44440a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/210c516d-b1d2-4e76-9402-b1ba3e44440a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/210c516d-b1d2-4e76-9402-b1ba3e44440a",
+    "logoUrl": "https://s3.aynaott.com/storage/96b3ea45751da8a6dc7a16ea94666dcb",
+    "id": "69590606fb1469e5acc959db",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 297,
+    "name": "Forever Kids",
+    "tvgId": "a36167ba-c4a4-422a-91c6-594228b8cae4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a36167ba-c4a4-422a-91c6-594228b8cae4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a36167ba-c4a4-422a-91c6-594228b8cae4",
+    "logoUrl": "https://s3.aynaott.com/storage/dc6a6988bf98b389a5f93b58424ac625",
+    "id": "69590606fb1469e5acc959e0",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 298,
+    "name": "Dios Te Ve Kids",
+    "tvgId": "a8b5e07e-b775-415f-b71f-9391bacc9e30",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a8b5e07e-b775-415f-b71f-9391bacc9e30",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a8b5e07e-b775-415f-b71f-9391bacc9e30",
+    "logoUrl": "https://s3.aynaott.com/storage/350e9d008f0ec0b9c199e56bbc7cf43a",
+    "id": "69590607fb1469e5acc959e7",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 299,
+    "name": "3ABN Kids",
+    "tvgId": "8a87e892-cbf1-4361-8d46-06cce682c902",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8a87e892-cbf1-4361-8d46-06cce682c902",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8a87e892-cbf1-4361-8d46-06cce682c902",
+    "logoUrl": "https://s3.aynaott.com/storage/0229450bbd66d8e761566cd49d80c5fe",
+    "id": "69590607fb1469e5acc959eb",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 300,
+    "name": "TVCARiB Kids & Teens",
+    "tvgId": "1486a1c3-9efe-48f7-8c7a-fe61a939d60a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/1486a1c3-9efe-48f7-8c7a-fe61a939d60a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/1486a1c3-9efe-48f7-8c7a-fe61a939d60a",
+    "logoUrl": "https://s3.aynaott.com/storage/37da04a0cf805868a959c3dfdfcd3a31",
+    "id": "69590607fb1469e5acc959ef",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 301,
+    "name": "4 Kids TV",
+    "tvgId": "4cb37b51-8326-48ef-9daf-689f7ff75e92",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4cb37b51-8326-48ef-9daf-689f7ff75e92",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/16da0d0e78bea541340d8819b3235288",
+    "id": "69590607fb1469e5acc959f4",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 302,
+    "name": "Cartoon Network (Two)",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/49",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/49",
+    "logoUrl": "http://tvassets.roarzone.info/images/79.png",
+    "id": "69590607fb1469e5acc959fc",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 303,
+    "name": "Nick (Hindi)",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/50",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/50",
+    "logoUrl": "http://tvassets.roarzone.info/images/55.png",
+    "id": "69590608fb1469e5acc95a01",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 304,
+    "name": "Sony YAY",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/53",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/53",
+    "logoUrl": "http://tvassets.roarzone.info/images/sonyyay.png",
+    "id": "69590608fb1469e5acc95a06",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 305,
+    "name": "Discovery Kids",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/52",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/52",
+    "logoUrl": "http://tvassets.roarzone.info/images/discoverykids.png",
+    "id": "69590608fb1469e5acc95a0c",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 306,
+    "name": "POGO (Hindi)",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/51",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/51",
+    "logoUrl": "http://tvassets.roarzone.info/images/pogo.png",
+    "id": "69590608fb1469e5acc95a10",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 307,
+    "name": "History",
+    "tvgId": "77aab6ef-59da-4e68-881f-b12ea01df543",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/77aab6ef-59da-4e68-881f-b12ea01df543",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/77aab6ef-59da-4e68-881f-b12ea01df543",
+    "logoUrl": "https://s3.aynaott.com/storage/dc6a9217dd26f42b7a3d26d533e62fce",
+    "id": "69590609fb1469e5acc95a14",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 308,
+    "name": "CGTN Docu",
+    "tvgId": "8077a601-7b7f-4e58-88bd-7370c25d7001",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8077a601-7b7f-4e58-88bd-7370c25d7001",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8077a601-7b7f-4e58-88bd-7370c25d7001",
+    "logoUrl": "https://s3.aynaott.com/storage/476f46af0a34cb2360f8f3fd95379b85",
+    "id": "69590609fb1469e5acc95a19",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 309,
+    "name": "Discovery Turbo",
+    "tvgId": "c106cb9b-69a2-4759-94b6-2822f5155488",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/c106cb9b-69a2-4759-94b6-2822f5155488",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/c106cb9b-69a2-4759-94b6-2822f5155488",
+    "logoUrl": "https://s3.aynaott.com/storage/4dd4da17998dfdf28ffbcd721966889d",
+    "id": "69590609fb1469e5acc95a21",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 310,
+    "name": "Discovery Science",
+    "tvgId": "7b8ecade-cb1a-485e-b270-d128197ec444",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7b8ecade-cb1a-485e-b270-d128197ec444",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7b8ecade-cb1a-485e-b270-d128197ec444",
+    "logoUrl": "https://s3.aynaott.com/storage/c02b6b0eb214d3a691d579c6e59934dc",
+    "id": "69590609fb1469e5acc95a26",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 311,
+    "name": "Discovery Family",
+    "tvgId": "6aa7469a-89a8-4c46-a141-90fe1fff7893",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6aa7469a-89a8-4c46-a141-90fe1fff7893",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6aa7469a-89a8-4c46-a141-90fe1fff7893",
+    "logoUrl": "https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4",
+    "id": "69590609fb1469e5acc95a2b",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 312,
+    "name": "Animal Planet HD",
+    "tvgId": "fb4c9119-ad73-4e37-8091-b26126d200b9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/fb4c9119-ad73-4e37-8091-b26126d200b9",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/fb4c9119-ad73-4e37-8091-b26126d200b9",
+    "logoUrl": "https://s3.aynaott.com/storage/0416cc63326da27ad8ec18fb91840c36",
+    "id": "6959060afb1469e5acc95a31",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 313,
+    "name": "COOKING TV",
+    "tvgId": "f3b88c27-c0ed-4a0b-a5fd-05cd9ab80a01",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f3b88c27-c0ed-4a0b-a5fd-05cd9ab80a01",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f3b88c27-c0ed-4a0b-a5fd-05cd9ab80a01",
+    "logoUrl": "https://s3.aynaott.com/storage/a0ff3a0362844b45d87735302dcebc84",
+    "id": "6959060afb1469e5acc95a35",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 314,
+    "name": "Food Network",
+    "tvgId": "98cbc702-3ebe-45bf-be48-0b5bd0957baf",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/98cbc702-3ebe-45bf-be48-0b5bd0957baf",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/98cbc702-3ebe-45bf-be48-0b5bd0957baf",
+    "logoUrl": "https://s3.aynaott.com/storage/6c897d97bb157cb69096cffd1163faff",
+    "id": "6959060afb1469e5acc95a39",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 315,
+    "name": "HGTV",
+    "tvgId": "472766de-e0af-4cf3-89b4-31390bbe0942",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/472766de-e0af-4cf3-89b4-31390bbe0942",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/472766de-e0af-4cf3-89b4-31390bbe0942",
+    "logoUrl": "https://s3.aynaott.com/storage/7c6b0691027766c496ef8a64da1e216f",
+    "id": "6959060afb1469e5acc95a3f",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 316,
+    "name": "Nat Geo TV",
+    "tvgId": "f79543b0-41ab-433f-8bfc-53d6bba16399",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f79543b0-41ab-433f-8bfc-53d6bba16399",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f79543b0-41ab-433f-8bfc-53d6bba16399",
+    "logoUrl": "https://s3.aynaott.com/storage/67a48ff99e888817617ed26665586776",
+    "id": "6959060afb1469e5acc95a46",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 317,
+    "name": "TLC HD",
+    "tvgId": "63db4c23-d199-4be6-90a0-d46742c7d53e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/63db4c23-d199-4be6-90a0-d46742c7d53e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/63db4c23-d199-4be6-90a0-d46742c7d53e",
+    "logoUrl": "https://s3.aynaott.com/storage/dcd3d2b430a0a2b2949cacaa5486d850",
+    "id": "6959060bfb1469e5acc95a4b",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 318,
+    "name": "Travel Channel",
+    "tvgId": "b32b87d2-828c-48e2-b32c-eec0ed92b1a5",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b32b87d2-828c-48e2-b32c-eec0ed92b1a5",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b32b87d2-828c-48e2-b32c-eec0ed92b1a5",
+    "logoUrl": "https://s3.aynaott.com/storage/e6a7b2f60f6b1f0012bcf14140341435",
+    "id": "6959060bfb1469e5acc95a51",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 319,
+    "name": "Discovery HD",
+    "tvgId": "59308a2b-4110-461e-a2b3-ab035527d5a8",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/59308a2b-4110-461e-a2b3-ab035527d5a8",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/59308a2b-4110-461e-a2b3-ab035527d5a8",
+    "logoUrl": "https://s3.aynaott.com/storage/ec5f76b3e7135687627ffec2b324758f",
+    "id": "6959060bfb1469e5acc95a56",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 320,
+    "name": "Discovery HD (Bangla)",
+    "tvgId": "db6759ab-4cf1-4970-9007-c15d977e33de",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/db6759ab-4cf1-4970-9007-c15d977e33de",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/db6759ab-4cf1-4970-9007-c15d977e33de",
+    "logoUrl": "https://s3.aynaott.com/storage/ec5f76b3e7135687627ffec2b324758f",
+    "id": "6959060bfb1469e5acc95a5a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 321,
+    "name": "4k Travel TV",
+    "tvgId": "7a0871d0-1a45-430c-b513-3bba8a9cf820",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/7a0871d0-1a45-430c-b513-3bba8a9cf820",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/7a0871d0-1a45-430c-b513-3bba8a9cf820",
+    "logoUrl": "https://s3.aynaott.com/storage/3a451fe2db2f64b31f19b72f512e4a15",
+    "id": "6959060bfb1469e5acc95a5e",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 322,
+    "name": "BBC Travel",
+    "tvgId": "f1b42e9e-0f82-41ae-a30b-c3f90d18f96b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f1b42e9e-0f82-41ae-a30b-c3f90d18f96b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f1b42e9e-0f82-41ae-a30b-c3f90d18f96b",
+    "logoUrl": "https://s3.aynaott.com/storage/7a2d2bc5fde30fb6de288c08e9771371",
+    "id": "6959060cfb1469e5acc95a64",
+    "genre": "United Kingdom"
+  },
+  {
+    "channelNumber": 323,
+    "name": "InTravel",
+    "tvgId": "bb4763ad-ff05-4aae-92f0-daa668de5231",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/bb4763ad-ff05-4aae-92f0-daa668de5231",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/bb4763ad-ff05-4aae-92f0-daa668de5231",
+    "logoUrl": "https://s3.aynaott.com/storage/a55aac31051b0cc1fd93ddf41f61b05d",
+    "id": "6959060cfb1469e5acc95a6b",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 324,
+    "name": "Persiana Travel",
+    "tvgId": "6587b33e-12f4-4f17-a37c-1a0955457ccb",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6587b33e-12f4-4f17-a37c-1a0955457ccb",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6587b33e-12f4-4f17-a37c-1a0955457ccb",
+    "logoUrl": "https://s3.aynaott.com/storage/3e7f86321552e1101edeb6632ffe0029",
+    "id": "6959060cfb1469e5acc95a70",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 325,
+    "name": "Travel XP",
+    "tvgId": "22c31d4b-491c-4eca-ac07-e9b1f131f5fd",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/22c31d4b-491c-4eca-ac07-e9b1f131f5fd",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/22c31d4b-491c-4eca-ac07-e9b1f131f5fd",
+    "logoUrl": "https://s3.aynaott.com/storage/0d8526db05a36e59aa730f6cdad3d65e",
+    "id": "6959060cfb1469e5acc95a76",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 326,
+    "name": "Wild TV",
+    "tvgId": "ae2febd5-b25c-4977-a117-fc4fadcc44f6",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/ae2febd5-b25c-4977-a117-fc4fadcc44f6",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/ae2febd5-b25c-4977-a117-fc4fadcc44f6",
+    "logoUrl": "https://s3.aynaott.com/storage/1969b75304acf07bef9acdd65fe18fde",
+    "id": "6959060cfb1469e5acc95a7b",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 327,
+    "name": "Adventure Earth",
+    "tvgId": "6db89c8a-a26b-47fe-8643-6f2abd219ab4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6db89c8a-a26b-47fe-8643-6f2abd219ab4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6db89c8a-a26b-47fe-8643-6f2abd219ab4",
+    "logoUrl": "https://s3.aynaott.com/storage/7fe390426fa888e6ac69a37486e8d6c3",
+    "id": "6959060dfb1469e5acc95a7f",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 328,
+    "name": "Nat Geo (National Geographic)",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/41",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/41",
+    "logoUrl": "https://i.ibb.co/kVQRyZy0/National-Geographic-Logo.png",
+    "id": "6959060dfb1469e5acc95a83",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 329,
+    "name": "Sony BBC Earth",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/40",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/40",
+    "logoUrl": "http://tvassets.roarzone.info/images/44.png",
+    "id": "6959060dfb1469e5acc95a8b",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 330,
+    "name": "Discovery HD Investigation",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/38",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/38",
+    "logoUrl": "http://tvassets.roarzone.info/images/discoveryhdInvestigation.png",
+    "id": "6959060dfb1469e5acc95a91",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 331,
+    "name": "Hum Masala",
+    "tvgId": "",
+    "streamUrl": "https://mewzone.bdstream.site/rz/ch_no/32",
+    "webStreamUrl": "https://mewzone.bdstream.site/rz/ch_no/32",
+    "logoUrl": "http://tvassets.roarzone.info/images/hummasala.png",
+    "id": "6959060dfb1469e5acc95a96",
+    "genre": "Pakistan"
+  },
+  {
+    "channelNumber": 332,
+    "name": "Sangeet Bangla",
+    "tvgId": "75412270-ce20-4376-8e7f-21fc76f84ed4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/75412270-ce20-4376-8e7f-21fc76f84ed4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/75412270-ce20-4376-8e7f-21fc76f84ed4",
+    "logoUrl": "https://s3.aynaott.com/storage/90ef4ee59dd2a536c91e7ac13df8e558",
+    "id": "6959060dfb1469e5acc95a9c",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 333,
+    "name": "B4u Music",
+    "tvgId": "16924cee-bc7a-470b-895f-4c8bf5fc9019",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/16924cee-bc7a-470b-895f-4c8bf5fc9019",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/16924cee-bc7a-470b-895f-4c8bf5fc9019",
+    "logoUrl": "https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7",
+    "id": "6959060efb1469e5acc95aa0",
+    "genre": "India"
+  },
+  {
+    "channelNumber": 334,
+    "name": "9x Jhakaas",
+    "tvgId": "0fc15069-e437-4138-a1bd-f62aaa93773e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/0fc15069-e437-4138-a1bd-f62aaa93773e",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/0fc15069-e437-4138-a1bd-f62aaa93773e",
+    "logoUrl": "https://s3.aynaott.com/storage/7a2727cca408ab9b649429909838d361",
+    "id": "6959060efb1469e5acc95aa4",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 335,
+    "name": "9XM",
+    "tvgId": "93d08244-7eb4-4294-80b5-43030f41ca9f",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/93d08244-7eb4-4294-80b5-43030f41ca9f",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/93d08244-7eb4-4294-80b5-43030f41ca9f",
+    "logoUrl": "https://s3.aynaott.com/storage/d7c72d1fa7349c119a91fc51875b78d3",
+    "id": "6959060efb1469e5acc95aa9",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 336,
+    "name": "Mastiii Music",
+    "tvgId": "a0ff33aa-aee8-4fe3-a391-42bbb7cbacec",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a0ff33aa-aee8-4fe3-a391-42bbb7cbacec",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/a0ff33aa-aee8-4fe3-a391-42bbb7cbacec",
+    "logoUrl": "https://s3.aynaott.com/storage/f18b40a9e01972f1737ab4c4a4bbbceb",
+    "id": "6959060ffb1469e5acc95ab1",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 337,
+    "name": "Music India",
+    "tvgId": "6a3da04b-dacc-441f-9549-71da39b5af07",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6a3da04b-dacc-441f-9549-71da39b5af07",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/6a3da04b-dacc-441f-9549-71da39b5af07",
+    "logoUrl": "https://s3.aynaott.com/storage/9c45627c28eec88cac28473afd498f0e",
+    "id": "6959060ffb1469e5acc95ab6",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 338,
+    "name": "9x Jalwa",
+    "tvgId": "da617cc0-9209-434c-9156-0f9387182a3f",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/da617cc0-9209-434c-9156-0f9387182a3f",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/da617cc0-9209-434c-9156-0f9387182a3f",
+    "logoUrl": "https://s3.aynaott.com/storage/5d33e8abef6707f38350bf94172007ac",
+    "id": "6959060ffb1469e5acc95abc",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 339,
+    "name": "9X Tashan",
+    "tvgId": "dbefbb0b-b2e0-4e34-8108-8852d53ee766",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/dbefbb0b-b2e0-4e34-8108-8852d53ee766",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/dbefbb0b-b2e0-4e34-8108-8852d53ee766",
+    "logoUrl": "https://s3.aynaott.com/storage/1dde08de367f28f0934af20310cc8d13",
+    "id": "69590610fb1469e5acc95ac1",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 340,
+    "name": "Dhoom Music Bangla",
+    "tvgId": "67d12ffa-059f-4d79-a4e5-b36104d0af06",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/67d12ffa-059f-4d79-a4e5-b36104d0af06",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/67d12ffa-059f-4d79-a4e5-b36104d0af06",
+    "logoUrl": "https://s3.aynaott.com/storage/c58900c644d812c4bff8e6935829de6b",
+    "id": "69590610fb1469e5acc95ac5",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 341,
+    "name": "MTV",
+    "tvgId": "b4584eb3-f1da-4f1c-ac26-f547598ec2ed",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b4584eb3-f1da-4f1c-ac26-f547598ec2ed",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b4584eb3-f1da-4f1c-ac26-f547598ec2ed",
+    "logoUrl": "https://s3.aynaott.com/storage/1fbfc7fa968ff490b35b7b5cf1db4508",
+    "id": "69590610fb1469e5acc95acd",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 342,
+    "name": "Power Turk",
+    "tvgId": "bdf309a5-d732-45d8-989a-5ad5defd0224",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/bdf309a5-d732-45d8-989a-5ad5defd0224",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/bdf309a5-d732-45d8-989a-5ad5defd0224",
+    "logoUrl": "https://s3.aynaott.com/storage/4329cb48da7e29dff8be49eb4f80c4cd",
+    "id": "69590610fb1469e5acc95ad3",
+    "genre": "Turkey"
+  },
+  {
+    "channelNumber": 343,
+    "name": "Zoom TV",
+    "tvgId": "acc55af3-9678-4714-b67c-5d734f5b8a5b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/acc55af3-9678-4714-b67c-5d734f5b8a5b",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/acc55af3-9678-4714-b67c-5d734f5b8a5b",
+    "logoUrl": "https://s3.aynaott.com/storage/31ff166a709c0315441bbd223f6cef0a",
+    "id": "69590611fb1469e5acc95ad8",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 344,
+    "name": "World Muzzik",
+    "tvgId": "8b852c92-0157-4099-8352-b49723129558",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8b852c92-0157-4099-8352-b49723129558",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8b852c92-0157-4099-8352-b49723129558",
+    "logoUrl": "https://s3.aynaott.com/storage/729cdd6f185a83954beca4a085f71655",
+    "id": "69590611fb1469e5acc95ade",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 345,
+    "name": "Islam TV",
+    "tvgId": "f6096a6f-9891-4bfc-98d8-ea20ea1388fe",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/f6096a6f-9891-4bfc-98d8-ea20ea1388fe",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/f6096a6f-9891-4bfc-98d8-ea20ea1388fe",
+    "logoUrl": "https://s3.aynaott.com/storage/2379c1a7c685f7ca6a096bbf1c95aab1",
+    "id": "69590611fb1469e5acc95ae2",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 346,
+    "name": "RTV Islam",
+    "tvgId": "596e39ca-a957-4029-bbc6-55e89dc5d4d4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/596e39ca-a957-4029-bbc6-55e89dc5d4d4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/596e39ca-a957-4029-bbc6-55e89dc5d4d4",
+    "logoUrl": "https://s3.aynaott.com/storage/f71f649abc51984f09076ef6ee5c0d0c",
+    "id": "69590611fb1469e5acc95ae6",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 347,
+    "name": "Iqra Bangla",
+    "tvgId": "b0684b5d-0e56-4429-8f64-55d8c18fcc1c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/b0684b5d-0e56-4429-8f64-55d8c18fcc1c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/b0684b5d-0e56-4429-8f64-55d8c18fcc1c",
+    "logoUrl": "https://s3.aynaott.com/storage/19e62cfd082b5cd7b254fb9f75f2f763",
+    "id": "69590611fb1469e5acc95aec",
+    "genre": "Bangladesh"
+  },
+  {
+    "channelNumber": 348,
+    "name": "Peace TV",
+    "tvgId": "5a6ca809-0fbd-44d5-bcf4-aeb4d4cbd849",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/5a6ca809-0fbd-44d5-bcf4-aeb4d4cbd849",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/5a6ca809-0fbd-44d5-bcf4-aeb4d4cbd849",
+    "logoUrl": "https://s3.aynaott.com/storage/d197bbb60d05bea8508e65576eba57b1",
+    "id": "69590612fb1469e5acc95af3",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 349,
+    "name": "Peace TV Bangla HD",
+    "tvgId": "d0828e90-a8b9-4d2b-9bf7-ab996578147a",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/d0828e90-a8b9-4d2b-9bf7-ab996578147a",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/d0828e90-a8b9-4d2b-9bf7-ab996578147a",
+    "logoUrl": "https://s3.aynaott.com/storage/c0b4732867d1b1b8d0ff8326073be46f",
+    "id": "69590612fb1469e5acc95af8",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 350,
+    "name": "Peace TV Urdu HD",
+    "tvgId": "dd837351-ae92-4ce1-b5d4-1ceece83accf",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/dd837351-ae92-4ce1-b5d4-1ceece83accf",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/dd837351-ae92-4ce1-b5d4-1ceece83accf",
+    "logoUrl": "https://s3.aynaott.com/storage/0474144be69d57b0cabcb3245f032404",
+    "id": "69590613fb1469e5acc95afe",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 351,
+    "name": "Deen TV",
+    "tvgId": "72e3bc27-72a7-4c93-8953-66218fa7c51d",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/72e3bc27-72a7-4c93-8953-66218fa7c51d",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/72e3bc27-72a7-4c93-8953-66218fa7c51d",
+    "logoUrl": "https://s3.aynaott.com/storage/62f74ecbaa7ae32fc35fbaea42fe4d29",
+    "id": "69590613fb1469e5acc95b07",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 352,
+    "name": "Eman Channel",
+    "tvgId": "9feb93f4-0ffa-4877-b619-0870644562c4",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9feb93f4-0ffa-4877-b619-0870644562c4",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9feb93f4-0ffa-4877-b619-0870644562c4",
+    "logoUrl": "https://s3.aynaott.com/storage/286e8ac3723edb19f7ea7b07dd33fdde",
+    "id": "69590613fb1469e5acc95b0d",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 353,
+    "name": "Quran",
+    "tvgId": "202995ff-6d89-4f7e-9bcb-ab36cf530a17",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/202995ff-6d89-4f7e-9bcb-ab36cf530a17",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/202995ff-6d89-4f7e-9bcb-ab36cf530a17",
+    "logoUrl": "https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e",
+    "id": "69590613fb1469e5acc95b13",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 354,
+    "name": "SUNNAH",
+    "tvgId": "feb40b2a-e10d-45d2-9e89-786f7d29ab2c",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/feb40b2a-e10d-45d2-9e89-786f7d29ab2c",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/feb40b2a-e10d-45d2-9e89-786f7d29ab2c",
+    "logoUrl": "https://s3.aynaott.com/storage/965c0999ab09ebcf1c9f5803c8309460",
+    "id": "69590614fb1469e5acc95b18",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 355,
+    "name": "TAQBEER",
+    "tvgId": "8846b2aa-7f7f-4d5e-965e-42bed0fdf092",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8846b2aa-7f7f-4d5e-965e-42bed0fdf092",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/8846b2aa-7f7f-4d5e-965e-42bed0fdf092",
+    "logoUrl": "https://s3.aynaott.com/storage/cabc2f03e8c2f85c6d088eab4bb0833a",
+    "id": "69590614fb1469e5acc95b1d",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 356,
+    "name": "MADANI TV",
+    "tvgId": "32acaaeb-2b3b-4979-98d9-b45deecde3ec",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/32acaaeb-2b3b-4979-98d9-b45deecde3ec",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/32acaaeb-2b3b-4979-98d9-b45deecde3ec",
+    "logoUrl": "https://s3.aynaott.com/storage/2635af4f0f6ad398e4f1903c48818bb9",
+    "id": "69590614fb1469e5acc95b25",
+    "genre": "Unknown"
+  },
+  {
+    "channelNumber": 357,
+    "name": "ABN",
+    "tvgId": "9b638e91-1eaa-4f60-8d7a-13268a62bd39",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/9b638e91-1eaa-4f60-8d7a-13268a62bd39",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/9b638e91-1eaa-4f60-8d7a-13268a62bd39",
+    "logoUrl": "https://s3.aynaott.com/storage/9fef8f86c656fbfcdc724b7d27966f2f",
+    "id": "69590615fb1469e5acc95b2a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 358,
+    "name": "Hadi TV",
+    "tvgId": "3eadcf2b-f425-4555-b080-5c4ec5224708",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3eadcf2b-f425-4555-b080-5c4ec5224708",
+    "webStreamUrl": "https://stream.bdstream.site/get-stream/3eadcf2b-f425-4555-b080-5c4ec5224708",
+    "logoUrl": "https://s3.aynaott.com/storage/5a4ece61a4b5c56ec6bfe052e432706e",
+    "id": "69590615fb1469e5acc95b31",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 359,
+    "name": "Fox business",
+    "tvgId": "6be81470-eb86-4df1-9726-a95396a293d0",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/6be81470-eb86-4df1-9726-a95396a293d0",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/544a69f01c5cdfb1647fb2805dba72a5",
+    "id": "69590615fb1469e5acc95b3e",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 360,
+    "name": "WEATHER CHANNEL",
+    "tvgId": "acc7957a-b9c4-482a-8639-154bdd7eada1",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/acc7957a-b9c4-482a-8639-154bdd7eada1",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/ee930f871ee3949c9f8a7a059ec91fe3",
+    "id": "69590616fb1469e5acc95b46",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 361,
+    "name": "AccuWeather",
+    "tvgId": "4e74c2fe-7685-4716-8cfc-ff742280f904",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4e74c2fe-7685-4716-8cfc-ff742280f904",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/e1e76d3832c25d09395292fc347cc2d1",
+    "id": "69590616fb1469e5acc95b4a",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 362,
+    "name": "Fox Weather",
+    "tvgId": "8b15f84b-674b-420e-843a-47c71d0c15e2",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/8b15f84b-674b-420e-843a-47c71d0c15e2",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/f9fb6817c404067b1b07149d5607beb4",
+    "id": "69590616fb1469e5acc95b50",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 363,
+    "name": "The Weather Network",
+    "tvgId": "4f1bba79-d3dd-410b-98e1-35c596f743d9",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/4f1bba79-d3dd-410b-98e1-35c596f743d9",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/744df961c3054f5ab47aad45788c2c6e",
+    "id": "69590616fb1469e5acc95b55",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 364,
+    "name": "Weather Nation",
+    "tvgId": "00f6d778-57f2-4e1b-9c5b-ddcdb399ab81",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/00f6d778-57f2-4e1b-9c5b-ddcdb399ab81",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/3db26ec2f4c1c1ec9d642628af20a675",
+    "id": "69590616fb1469e5acc95b59",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 365,
+    "name": "Weather SPY",
+    "tvgId": "213a56e4-886c-44b1-8d72-2f8b9957376b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/213a56e4-886c-44b1-8d72-2f8b9957376b",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/4c6ac703273c2ba27dacd67906835765",
+    "id": "69590617fb1469e5acc95b5d",
+    "genre": "United States"
+  },
+  {
+    "channelNumber": 366,
+    "name": "ifood",
+    "tvgId": "3fb56953-9eb8-4972-becd-d2f117c18c5b",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/3fb56953-9eb8-4972-becd-d2f117c18c5b",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/c1661e4f3f57b6a4228273b3b547e2d8",
+    "id": "69590617fb1469e5acc95b62",
+    "genre": "International"
+  },
+  {
+    "channelNumber": 367,
+    "name": "BBC Lifestyle Asia",
+    "tvgId": "a0593bfc-5a16-43f6-9cfc-92c4e816ac1e",
+    "streamUrl": "https://streamer.bdstream.site/get-stream/a0593bfc-5a16-43f6-9cfc-92c4e816ac1e",
+    "webStreamUrl": "",
+    "logoUrl": "https://s3.aynaott.com/storage/fd4a96ac62106190d6bd2ed999fc7f7b",
+    "id": "69590617fb1469e5acc95b6a",
+    "genre": "United Kingdom"
+  }
+]
