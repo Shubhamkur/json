@@ -1,0 +1,626 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV4WAP LIVE4WAP WAPTV TVGOTK SONY</title>
+    <link rel="icon" href="" type="image/x-icon" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <style>
+
+        :root {
+            /* --- COLOR PALETTE (Vibrant, Playful Update) --- */
+            --bg-dark:#121212;        /* Near Black for deep contrast */
+            --bg-medium: #1e1e1e;      /* Dark Gray/Card Background */
+            --bg-light: #2c2c2c;       /* Footer/Group-filter Background */
+            --text-primary: #ffffff;   /* Pure White Text */
+            --text-secondary: #aaaaaa; /* Lighter Gray Text */
+            
+            /* -- Vibrant Accent Colors -- */
+            --highlight-color: gold; /* Bright Sky Blue (Primary Accent) */
+            --link-color: #FF4081;      /* Deep Pink (Secondary Accent/Links) */
+            --header-live-btn: #FF5252; /* Vivid Red */
+            --header-tv-btn: #4CAF50;   /* Bright Green */
+            --header-border: #FFEB3B;   /* Vibrant Yellow Divider */
+
+            /* -- Layout & Timing -- */
+            --transition-speed: 0.25s;
+            --header-height: 85px;
+            --footer-height: 60px;
+            --border-radius-card: 15px;
+            --border-radius-input: 9px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+
+        body {
+            font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            padding-top: var(--header-height); 
+            padding-bottom: var(--footer-height);
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 20px; 
+            width: 100%;
+        }
+        
+        a {
+            text-decoration: none; 
+            color: inherit;
+            outline: none;
+        }
+        
+
+        .fixed-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+            background-color: var(--bg-dark); 
+        }
+
+        /* --- Telegram Button Bar (ENFORCED 50/50 SPLIT) --- */
+        .telegram-btn {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+            border-bottom: 3px solid var(--header-border); /* Yellow Divider */
+        }
+        .telegram-btn tr {
+             /* Ensures no gap between cells */
+            display: flex;
+            width: 100%;
+        }
+        .telegram-btn td {
+            padding: 0; 
+            font-weight: bold;
+            flex-grow: 1; /* Make cells take equal width */
+        }
+        .telegram-btn a {
+            color: var(--text-primary);
+            display: block;
+            padding: 7px 4px; /* Larger padding for better touch target */
+            font-size: 1.0rem;
+            text-transform: uppercase;
+        }
+        .telegram-btn1 {
+            background-color: var(--header-live-btn); /* Red */
+        }
+        .telegram-btn2 {
+            background-color: var(--header-tv-btn);   /* Green */
+        }
+
+
+        .group-filter {
+            background: var(--bg-light); 
+            padding: 5px 0; 
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .search-bar {
+            display: flex;
+            gap: 8px;
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 0 10px; 
+            align-items: center;
+        }
+
+        .search-bar input, 
+        .group-filter select {
+            /* Input/Select Shared Styles */
+            padding: 8px;
+            font-size: 1.0rem;
+            border-radius: var(--border-radius-input); 
+            border: 1px solid var(--highlight-color); 
+            background-color: var(--bg-medium); 
+            color: var(--text-primary);
+            height: 40px;
+            
+            /* 50/50 Split Logic */
+            flex-grow: 1;
+            flex-basis: 50%; 
+            width: 50%;
+            
+            transition: border-color var(--transition-speed), box-shadow var(--transition-speed);
+        }
+
+        .search-bar input:focus, 
+        .group-filter select:focus {
+            border-color: var(--link-color);
+            box-shadow: 0 0 8px var(--link-color);
+            outline: none;
+        }
+        
+        .group-filter select {
+            appearance: none; 
+            -webkit-appearance: none; 
+            /* Custom drop-down arrow (white SVG) */
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Cpath%20fill%3D%22white%22%20d%3D%22M10%203.5L6%207.5L2%203.5L1%204.5L6%209.5L11%204.5Z%22%2F%3E%3C%2Fsvg%3E");
+            background-repeat: no-repeat;
+            background-position: right 8px center;
+            padding-right: 25px; 
+        }
+
+        .file-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+            gap: 10px;
+            padding-top: 10px;
+        }
+
+        .directory-item {
+            background-color: var(--bg-medium); 
+            border-radius: var(--border-radius-card); 
+            overflow: hidden;
+            transition: transform var(--transition-speed) ease, box-shadow var(--transition-speed) ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 10px; 
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+            min-height: 180px; 
+        }
+
+        .directory-item:hover {
+            transform: scale(1.03); 
+            box-shadow: 0 12px 25px rgba(0, 0, 0, 0.5);
+            background-color: var(--bg-light); 
+        }
+        
+        .directory-item a {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            justify-content: space-between; 
+        }
+        
+        /* --- ASPECT RATIO CONTAINER (3:4 Ratio) --- */
+        .image-wrapper {
+            width: 100%;
+            padding-top: 133.33%; 
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            margin-bottom: 5px;
+        }
+
+        .directory-item img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%; 
+            height: 100%;
+            object-fit: contain;
+            
+            /* --- CHANGE: Image Border to Black --- */
+            border: 3px solid #000000; 
+            box-shadow: 0 0 8px #000000; /* Shadow adjusted to black */
+            background-color: var(--bg-dark); 
+            padding: 5px;
+        }
+
+        /* Single-Line Channel Name Enforcement */
+        .directory-item b {
+            font-weight: 700;
+            display: block;
+            padding-top: 5px;
+            font-size: 0.85rem;
+            color: var(--text-primary); 
+            
+            width: 100%; 
+            white-space: nowrap; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+            text-align: center;
+        }
+        
+        .file-container p {
+            width: 100%;
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 40px 0;
+            font-size: 1.1rem;
+        }
+        
+
+        .fixed-footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: var(--footer-height);
+            background-color: var(--bg-light); 
+            color: var(--text-secondary); 
+            z-index: 1000;
+            padding: 2px 2px;
+            text-align: center;
+            font-size: 7px; 
+            box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.6);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .footer-content {
+            max-width: 1000px;
+            width: 100%;
+        }
+        
+        .footer-content p {
+            margin: 1px 0;
+        }
+
+        .contact-info a {
+            color: var(--link-color); 
+            margin-left: 5px;
+            font-weight: bold;
+            transition: color var(--transition-speed);
+        }
+        
+        .contact-info a:hover {
+            color: var(--header-border);
+        }
+
+        .contact-info i {
+            margin-right: 5px;
+            color: var(--link-color); 
+        }
+
+
+        @media (max-width: 600px) {
+            :root {
+                --header-height: 85px; 
+                --footer-height: 75px;
+            }
+            
+            body {
+                padding-top: var(--header-height); 
+                padding-bottom: var(--footer-height);
+            }
+            
+            /* Channel Grid Tighter Layout */
+            .file-container {
+                grid-template-columns: repeat(auto-fill, minmax(95px, 1fr));
+                gap: 10px;
+            }
+
+            .directory-item {
+                min-height: 150px; 
+                padding: 5px;
+                border-radius: 10px;
+            }
+            
+            .directory-item b {
+                font-size: 0.7rem;
+            }
+            
+            .fixed-footer {
+                font-size: 0.7rem;
+                padding: 5px;
+            }
+        }
+        
+        @media (max-width: 400px) {
+            .search-bar {
+                gap: 5px;
+            }
+            
+            .search-bar input, 
+            .group-filter select {
+                font-size: 0.9rem;
+                height: 35px;
+            }
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="fixed-header">
+        <table class="telegram-btn">
+            <tr>
+                <td class="telegram-btn1" width="50%"><a href="https://t.me/tvgotk">LIVE4WAP </a></td>
+                <td class="telegram-btn2" width="50%"><a href="https://t.me/tv4wap">TV4WAP </a></td>
+            </tr>
+        </table>
+        
+        <div class="group-filter">
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Search Channels" onkeyup="filterChannels()">
+                <select id="group-select" onchange="filterChannels()">
+                    <option value="all">Filter by Group</option> 
+                </select>
+            </div>
+        </div>
+    </div> 
+
+
+    <div class="tab-content">
+        <div class="container">
+            <div id="app" class="file-container">
+                <p id="loading-status">Loading channels...</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed-footer">
+   <div class="footer-content">
+    <p style="font-size: 7px;">
+    All links and content,including GitHub JSON and M3U files, are collected from third-party external websites. This site is not affiliated with any channel and hosts no content. Use all external links at your own risk. Content copyright belongs to respective owners; we hold no responsibility. Be wise.</p>
+            <p class="contact-info">
+                <i class="fa fa-envelope"></i> Contact: <a href="mailto:Wapgotube@gmail.com">Wapgotube@gmail.com</a>
+            </p>
+        </div>
+    </div>
+
+
+    <script>
+        // --- CONFIGURATION ---
+        const SOURCE_URL = "https://tvgo.neocities.org/Json/AYNA.txt"; 
+        
+        // --- SEPARATE PLAYBACK PAGES ---
+        const JSON_PLAYBACK_PAGE = "https://wapgo.pages.dev"; 
+        const M3U_PLAYBACK_PAGE = "https://tvlive.pages.dev"; 
+        
+        // --- GLOBAL STATE ---
+        const appContainer = document.getElementById('app');
+        const groupSelect = document.getElementById('group-select');
+        let allChannels = [];
+        const groupTitles = new Set();
+        let detectedFormat = "UNKNOWN"; 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        // --- PARSING FUNCTIONS ---
+
+        function parseJsonData(json) {
+            return json.map(item => ({
+                name: item.name || 'Unknown',
+                id: item.id || '',           
+                title: item.title || 'Unknown', 
+                logo: item.logo || '',
+                group: item.genre || ' Channels', 
+                streamUrl: item.id || '',    
+                id1: item.id1 || '',         
+                id2: item.id2 || ''          
+            }));
+        }
+
+        function parseM3uData(data) {
+            const channels = [];
+            const lines = data.split('\n');
+
+            for (let i = 0; i < lines.length; i++) {
+                if (lines[i].startsWith('#EXTINF')) {
+                    const infoLine = lines[i];
+                    const streamUrl = lines[i + 1] ? lines[i + 1].trim() : '';
+                    
+                    if (!streamUrl || streamUrl.startsWith('#')) {
+                        i++; 
+                        continue;
+                    }
+
+                    const nameMatch = infoLine.match(/s*,(.+)/);
+                    const logoMatch = infoLine.match(/tvg-logo="(.*?)"/);
+                    const groupMatch = infoLine.match(/group-title="(.*?)"/);
+                    const idMatch = infoLine.match(/tvg-id="(.*?)"/);
+
+                    const name = nameMatch ? nameMatch[1].trim() : "Unknown";
+
+                    channels.push({
+                        name: name,
+                        id: idMatch ? idMatch[1] : '', 
+                        title: name,
+                        logo: logoMatch ? logoMatch[1] : "",
+                        group: groupMatch ? groupMatch[1] : "M3U Channels",
+                        streamUrl: streamUrl     
+                    });
+                }
+            }
+            return channels;
+        }
+        
+        
+        
+        
+        
+        
+
+        // --- UTILITY FUNCTIONS ---
+
+        function createPlaybackLink(channel) {
+            let baseUrl = detectedFormat === "JSON" ? JSON_PLAYBACK_PAGE : M3U_PLAYBACK_PAGE;
+            
+            const key = encodeURIComponent(channel.name);
+            
+            const params = new URLSearchParams();
+            params.set('name', channel.name);
+            params.set('id', channel.id || ''); 
+            params.set('title', channel.title || channel.name);
+            params.set('url', channel.streamUrl);
+            
+            if (channel.id1) params.set('id1', channel.id1);
+            if (channel.id2) params.set('id2', channel.id2);
+            
+            return `${baseUrl}/?id=${key}`;
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        function renderChannels(channelsToRender) {
+            const html = channelsToRender.map(item => {
+                const link = createPlaybackLink(item);
+                
+                // Image wrapped in 'image-wrapper' for 3:4 aspect ratio
+                return `
+                    <div data-name="${item.name}" data-group="${item.group}" class="directory-item">
+                        <a href="${link}">
+                            <div class="image-wrapper">
+                                <img src="${item.logo}" alt="${item.title} Logo" onerror="this.onerror=null;this.src='https://via.placeholder.com/80?text=TV'">
+                            </div>
+                            <b>${item.name}</b>
+                        </a>
+                    </div>
+                `;
+            }).join("");
+            
+            appContainer.innerHTML = html || "<p style='color:white; text-align:center;'>No channels found matching your criteria.</p>";
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+
+        function populateGroupFilter() {
+            groupSelect.innerHTML = '<option value="all">Filter by Group</option>'; 
+            const sortedGroups = Array.from(groupTitles).sort();
+            
+            sortedGroups.forEach(group => {
+                const option = document.createElement('option');
+                option.value = group;
+                option.textContent = group;
+                groupSelect.appendChild(option);
+            });
+        }
+        
+        function filterChannels() {
+            const searchInput = document.getElementById('search-input').value.toLowerCase();
+            const selectedGroup = groupSelect.value;
+            
+            const filtered = allChannels.filter(channel => {
+                const nameMatch = channel.name.toLowerCase().includes(searchInput);
+                const groupMatch = (selectedGroup === 'all' || channel.group === selectedGroup);
+                return nameMatch && groupMatch;
+            });
+            
+            renderChannels(filtered);
+        }
+        
+        // --- INITIALIZATION ---
+
+        async function fetchAndProcessData(url) {
+            appContainer.innerHTML = "<p style='color:white; text-align:center;'>Fetching data...</p>";
+            
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                
+                const contentType = response.headers.get('Content-Type');
+                const urlLower = url.toLowerCase();
+                const textData = await response.clone().text();
+                
+                let processedChannels = [];
+                
+                // Automatic Format Detection
+                if (contentType && (contentType.includes('application/json') || contentType.includes('text/json')) || urlLower.endsWith('.json') || (urlLower.endsWith('.txt') && textData.trim().startsWith('['))) {
+                    const json = JSON.parse(textData);
+                    processedChannels = parseJsonData(json);
+                    detectedFormat = "JSON"; 
+                } 
+                else if (textData.startsWith('#EXTM3U') || urlLower.endsWith('.m3u') || urlLower.endsWith('.m3u8') || textData.includes('#EXTINF')) {
+                    processedChannels = parseM3uData(textData);
+                    detectedFormat = "M3U"; 
+                }
+                else {
+                    appContainer.innerHTML = "<p style='color:red; text-align:center;'>Error: Could not determine file format (Not M3U or JSON).</p>";
+                    detectedFormat = "UNKNOWN";
+                    return;
+                }
+
+                allChannels = processedChannels;
+                
+                // Sort A-Z for all channel types
+                allChannels.sort((a, b) => a.name.localeCompare(b.name));
+                
+                // Populate Groups
+                allChannels.forEach(c => groupTitles.add(c.group));
+                
+                populateGroupFilter();
+                filterChannels(); 
+                
+            } catch (error) {
+                console.error("Error processing data:", error);
+                appContainer.innerHTML = `<p style='color:red; text-align:center;'>Failed to load or process data from ${url}. Check console for details.</p>`;
+            }
+        }
+
+        // Start the process
+        fetchAndProcessData(SOURCE_URL);
+
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
