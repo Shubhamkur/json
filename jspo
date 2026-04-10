@@ -342,27 +342,7 @@
   },
 
   {
-    "name": "Star Sports 1 Kannada",
-    "id": "1650",
-    "url": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd",
-    "url1": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd",
-    "url2": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd",
-    "url3": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd",
-    "keyId": "9a6d058fa40b5460a946178900eb44cb",
-    "key": "791d7444110cec32d731ca0c33ac6c15",
-    "logo": "https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg"
-  },
-  {
-    "name": "Star Sports 2 Kannada",
-    "id": "4472",
-    "url": "https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd",
-    "url1": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd",
-    "url2": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd",
-    "url3": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd",
-    "keyId": "7af2add2968a56309519ac2680c18f25",
-    "key": "f992a14e0def17ccdfe16f58c4ce56c5",
-    "logo": "https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg"
-  },
+
   {
     "name": "Star Sports Khel",
     "id": "1998",
